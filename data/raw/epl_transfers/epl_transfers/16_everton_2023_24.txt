@@ -1,0 +1,40 @@
+# Everton — EPL 2023-24 Transfer Window
+Final league position: 16/20 (2023-24 Premier League)
+
+## Financial Summary
+  Everton transfer spending for 2023/24 is: £33,000,000 of player purchases £72,864,000 of player sales | Everton net transfer balance for 2023/24 season is £39,864,000
+
+## Players Signed (Arrivals) — 15 transfers
+  - Beto signed from Udinese Calcio (Serie A) | Fee: £22,000,000 | Pos: CF | Age: 25 | Nat: Portugal
+  - Chermiti signed from Sporting CP (Liga Portugal) | Fee: £11,000,000 | Pos: CF | Age: 19 | Nat: Portugal
+  - Arnaut Danjuma signed from Villarreal CF (LaLiga) | Fee: Loan with fee | Pos: LW | Age: 26 | Nat: Netherlands
+  - Ashley Young signed from Aston Villa (Premier League) | Fee: Free transfer | Pos: DL | Age: 38 | Nat: England
+  - Jack Harrison signed from Leeds United (Championship) | Fee: loan transfer | Pos: LW | Age: 26 | Nat: England
+  - Thomas Cannon signed from Everton FC U21 (Premier League 2) | Fee: Free transfer | Pos: CF | Age: 20 | Nat: Ireland
+  - Lewis Dobbin signed from Everton FC U21 (Premier League 2) | Fee: Free transfer | Pos: LW | Age: 20 | Nat: England
+  - Moise Kean signed from Juventus FC (Serie A) | Fee: Loan | Pos: CF | Age: 23 | Nat: Italy
+  - André Gomes signed from LOSC Lille (Ligue 1) | Fee: Loan | Pos: MC | Age: 29 | Nat: Portugal
+  - Jarrad Branthwaite signed from PSV Eindhoven (Eredivisie) | Fee: Loan | Pos: DC | Age: 21 | Nat: England
+  - Mason Holgate signed from Southampton FC (Championship) | Fee: Loan | Pos: DC | Age: 27 | Nat: England
+  - Dele Alli signed from Besiktas JK (Süper Lig) | Fee: Loan | Pos: AM | Age: 27 | Nat: England
+  - Niels Nkounkou signed from AS Saint-Étienne (Ligue 2) | Fee: Loan | Pos: DL | Age: 22 | Nat: France
+  - Jean-Philippe Gbamin signed from Trabzonspor (Süper Lig) | Fee: Loan | Pos: DM | Age: 27 | Nat: Cote d'Ivoire
+  - João Virgínia signed from SC Cambuur Leeuwarden (Keuken Kampioen Divisie) | Fee: Loan | Pos: GK | Age: 23 | Nat: Portugal
+
+## Players Sold / Departed — 16 transfers
+  - Moise Kean sold/moved to Juventus FC (Serie A) | Fee: £26,400,000 | Pos: CF | Age: 23 | Nat: Italy
+  - Alex Iwobi sold/moved to Fulham FC (Premier League) | Fee: £22,616,000 | Pos: AM | Age: 27 | Nat: Nigeria
+  - Demarai Gray sold/moved to Al-Ettifaq FC (Saudi Pro League) | Fee: £8,184,000 | Pos: LW | Age: 27 | Nat: Jamaica
+  - Thomas Cannon sold/moved to Leicester City (Championship) | Fee: £7,744,000 | Pos: CF | Age: 20 | Nat: Ireland
+  - Ellis Simms sold/moved to Coventry City (Championship) | Fee: £6,160,000 | Pos: CF | Age: 22 | Nat: England
+  - Niels Nkounkou sold/moved to AS Saint-Étienne (Ligue 2) | Fee: £1,760,000 | Pos: DL | Age: 22 | Nat: France
+  - Yerry Mina sold/moved to ACF Fiorentina (Serie A) | Fee: Free transfer | Pos: DC | Age: 28 | Nat: Colombia
+  - Tom Davies sold/moved to Sheffield United (Premier League) | Fee: Free transfer | Pos: MC | Age: 25 | Nat: England
+  - Asmir Begovic sold/moved to Queens Park Rangers (Championship) | Fee: Free transfer | Pos: GK | Age: 36 | Nat: Bosnia-Herzegovina
+  - Neal Maupay sold/moved to Brentford FC (Premier League) | Fee: loan transfer | Pos: CF | Age: 27 | Nat: France
+  - Mason Holgate sold/moved to Southampton FC (Championship) | Fee: loan transfer | Pos: DC | Age: 26 | Nat: England
+  - Jean-Philippe Gbamin sold/moved to No team (No team) | Fee: Free transfer | Pos: DM | Age: 27 | Nat: Cote d'Ivoire
+  - Andros Townsend sold/moved to No team (No team) | Fee: Free transfer | Pos: RW | Age: 31 | Nat: England
+  - Jack Harrison sold/moved to Leeds United (Championship) | Fee: Loan | Pos: LW | Age: 27 | Nat: England
+  - Conor Coady sold/moved to Wolverhampton Wanderers (Premier League) | Fee: Loan | Pos: DC | Age: 30 | Nat: England
+  - Rúben Vinagre sold/moved to Sporting CP (Liga Portugal) | Fee: Loan | Pos: DL | Age: 24 | Nat: Portugal

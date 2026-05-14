@@ -1,0 +1,59 @@
+# Chelsea — EPL 2023-24 Transfer Window
+Final league position: 6/20 (2023-24 Premier League)
+
+## Financial Summary
+  Chelsea transfer spending for 2023/24 is: £406,648,000 of player purchases £226,512,000 of player sales | Chelsea net transfer balance for 2023/24 season is £-180,136,000
+
+## Players Signed (Arrivals) — 25 transfers
+  - Moisés Caicedo signed from Brighton & Hove Albion (Premier League) | Fee: £102,080,000 | Pos: DM | Age: 21 | Nat: Ecuador
+  - Roméo Lavia signed from Southampton FC (Championship) | Fee: £54,648,000 | Pos: DM | Age: 19 | Nat: Belgium
+  - Christopher Nkunku signed from RB Leipzig (Bundesliga) | Fee: £52,800,000 | Pos: ST | Age: 25 | Nat: France
+  - Cole Palmer signed from Manchester City (Premier League) | Fee: £41,360,000 | Pos: RW | Age: 21 | Nat: England
+  - Axel Disasi signed from AS Monaco (Ligue 1) | Fee: £39,600,000 | Pos: DC | Age: 25 | Nat: France
+  - Nicolas Jackson signed from Villarreal CF (LaLiga) | Fee: £32,560,000 | Pos: CF | Age: 22 | Nat: Senegal
+  - Lesley Ugochukwu signed from Stade Rennais FC (Ligue 1) | Fee: £23,760,000 | Pos: DM | Age: 19 | Nat: France
+  - Robert Sánchez signed from Brighton & Hove Albion (Premier League) | Fee: £20,240,000 | Pos: GK | Age: 25 | Nat: Spain
+  - Deivid Washington signed from Santos FC (Série A) | Fee: £14,080,000 | Pos: CF | Age: 18 | Nat: Brazil
+  - Ângelo signed from Santos FC (Série A) | Fee: £13,200,000 | Pos: RW | Age: 18 | Nat: Brazil
+  - Djordje Petrovic signed from New England Revolution (MLS) | Fee: £12,320,000 | Pos: GK | Age: 23 | Nat: Serbia
+  - Diego Moreira signed from SL Benfica B (Liga Sabseg) | Fee: Free transfer | Pos: LW | Age: 18 | Nat: Portugal
+  - Levi Colwill signed from Chelsea FC U21 (Premier League 2) | Fee: Free transfer | Pos: DC | Age: 20 | Nat: England
+  - Ian Maatsen signed from Chelsea FC U21 (Premier League 2) | Fee: Free transfer | Pos: DL | Age: 21 | Nat: Netherlands
+  - Lewis Hall signed from Chelsea FC U21 (Premier League 2) | Fee: Free transfer | Pos: DL | Age: 18 | Nat: England
+  - Lucas Bergström signed from Chelsea FC U21 (Premier League 2) | Fee: Free transfer | Pos: GK | Age: 20 | Nat: Finland
+  - Romelu Lukaku signed from Inter Milan (Serie A) | Fee: Loan | Pos: CF | Age: 30 | Nat: Belgium
+  - Malo Gusto signed from Olympique Lyon (Ligue 1) | Fee: Loan | Pos: DR | Age: 20 | Nat: France
+  - Callum Hudson-Odoi signed from Bayer 04 Leverkusen (Bundesliga) | Fee: Loan | Pos: LW | Age: 22 | Nat: England
+  - Andrey Santos signed from Nottingham Forest (Premier League) | Fee: Loan | Pos: DM | Age: 20 | Nat: Brazil
+  - Andrey Santos signed from Clube de Regatas Vasco da Gama (Série A) | Fee: Loan | Pos: DM | Age: 19 | Nat: Brazil
+  - Lewis Hall signed from Newcastle United (Premier League) | Fee: Loan | Pos: DL | Age: 19 | Nat: England
+  - Ethan Ampadu signed from Spezia Calcio (Serie B) | Fee: Loan | Pos: DM | Age: 22 | Nat: Wales
+  - Malang Sarr signed from AS Monaco (Ligue 1) | Fee: Loan | Pos: DC | Age: 24 | Nat: France
+  - Tiemoué Bakayoko signed from AC Milan (Serie A) | Fee: Loan | Pos: DM | Age: 28 | Nat: France
+
+## Players Sold / Departed — 25 transfers
+  - Kai Havertz sold/moved to Arsenal FC (Premier League) | Fee: £66,000,000 | Pos: AM | Age: 24 | Nat: Germany
+  - Mason Mount sold/moved to Manchester United (Premier League) | Fee: £56,496,000 | Pos: AM | Age: 24 | Nat: England
+  - Mateo Kovacic sold/moved to Manchester City (Premier League) | Fee: £25,608,000 | Pos: MC | Age: 29 | Nat: Croatia
+  - Kalidou Koulibaly sold/moved to Al-Hilal SFC (Saudi Pro League) | Fee: £20,240,000 | Pos: DC | Age: 32 | Nat: Senegal
+  - Christian Pulisic sold/moved to AC Milan (Serie A) | Fee: £17,600,000 | Pos: RW | Age: 24 | Nat: United States
+  - Edouard Mendy sold/moved to Al-Ahli SFC (Saudi Pro League) | Fee: £16,280,000 | Pos: GK | Age: 31 | Nat: Senegal
+  - Ruben Loftus-Cheek sold/moved to AC Milan (Serie A) | Fee: £14,080,000 | Pos: MC | Age: 27 | Nat: England
+  - Ethan Ampadu sold/moved to Leeds United (Championship) | Fee: £7,128,000 | Pos: DM | Age: 22 | Nat: Wales
+  - Romelu Lukaku sold/moved to AS Roma (Serie A) | Fee: Loan with fee | Pos: CF | Age: 30 | Nat: Belgium
+  - Callum Hudson-Odoi sold/moved to Nottingham Forest (Premier League) | Fee: £3,080,000 | Pos: LW | Age: 22 | Nat: England
+  - Diego Moreira sold/moved to Olympique Lyon (Ligue 1) | Fee: Loan with fee | Pos: LW | Age: 19 | Nat: Portugal
+  - Kepa Arrizabalaga sold/moved to Real Madrid (LaLiga) | Fee: Loan with fee | Pos: GK | Age: 28 | Nat: Spain
+  - N'Golo Kanté sold/moved to Al-Ittihad Club (Saudi Pro League) | Fee: Free transfer | Pos: DM | Age: 32 | Nat: France
+  - César Azpilicueta sold/moved to Atlético de Madrid (LaLiga) | Fee: Free transfer | Pos: DR | Age: 33 | Nat: Spain
+  - Pierre-Emerick Aubameyang sold/moved to Olympique Marseille (Ligue 1) | Fee: Free transfer | Pos: CF | Age: 34 | Nat: Gabon
+  - Tiemoué Bakayoko sold/moved to FC Lorient (Ligue 1) | Fee: Free transfer | Pos: DM | Age: 29 | Nat: France
+  - Abdul Rahman Baba sold/moved to PAOK Thessaloniki (Super League 1) | Fee: Free transfer | Pos: DL | Age: 29 | Nat: Ghana
+  - Hakim Ziyech sold/moved to Galatasaray (Süper Lig) | Fee: loan transfer | Pos: AM | Age: 30 | Nat: Morocco
+  - Andrey Santos sold/moved to Nottingham Forest (Premier League) | Fee: loan transfer | Pos: DM | Age: 19 | Nat: Brazil
+  - Ângelo sold/moved to RC Strasbourg Alsace (Ligue 1) | Fee: loan transfer | Pos: RW | Age: 18 | Nat: Brazil
+  - David Datro Fofana sold/moved to 1.FC Union Berlin (Bundesliga) | Fee: loan transfer | Pos: CF | Age: 20 | Nat: Cote d'Ivoire
+  - Lewis Hall sold/moved to Newcastle United (Premier League) | Fee: loan transfer | Pos: DL | Age: 18 | Nat: England
+  - Gabriel Slonina sold/moved to KAS Eupen (Jupiler Pro League) | Fee: loan transfer | Pos: GK | Age: 19 | Nat: United States
+  - João Félix sold/moved to Atlético de Madrid (LaLiga) | Fee: Loan | Pos: ST | Age: 23 | Nat: Portugal
+  - Denis Zakaria sold/moved to Juventus FC (Serie A) | Fee: Loan | Pos: DM | Age: 26 | Nat: Switzerland

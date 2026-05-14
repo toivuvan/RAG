@@ -1,0 +1,27 @@
+# Aston Villa — EPL 2023-24 Transfer Window
+Final league position: 4/20 (2023-24 Premier League)
+
+## Financial Summary
+  Aston Villa transfer spending for 2023/24 is: £77,440,000 of player purchases £28,644,000 of player sales | Aston Villa net transfer balance for 2023/24 season is £-48,796,000
+
+## Players Signed (Arrivals) — 8 transfers
+  - Moussa Diaby signed from Bayer 04 Leverkusen (Bundesliga) | Fee: £48,400,000 | Pos: RW | Age: 24 | Nat: France
+  - Pau Torres signed from Villarreal CF (LaLiga) | Fee: £29,040,000 | Pos: DC | Age: 26 | Nat: Spain
+  - Nicolò Zaniolo signed from Galatasaray (Süper Lig) | Fee: Loan with fee | Pos: AM | Age: 24 | Nat: Italy
+  - Youri Tielemans signed from Leicester City (Championship) | Fee: Free transfer | Pos: MC | Age: 26 | Nat: Belgium
+  - Clément Lenglet signed from FC Barcelona (LaLiga) | Fee: loan transfer | Pos: DC | Age: 28 | Nat: France
+  - Morgan Sanson signed from RC Strasbourg Alsace (Ligue 1) | Fee: Loan | Pos: MC | Age: 28 | Nat: France
+  - Wesley Moraes signed from Levante UD (LaLiga2) | Fee: Loan | Pos: CF | Age: 26 | Nat: Brazil
+  - Viljami Sinisalo signed from Exeter City (League One) | Fee: Loan | Pos: GK | Age: 22 | Nat: Finland
+
+## Players Sold / Departed — 10 transfers
+  - Cameron Archer sold/moved to Sheffield United (Premier League) | Fee: £18,964,000 | Pos: CF | Age: 21 | Nat: England
+  - Jaden Philogene sold/moved to Hull City (Championship) | Fee: £5,104,000 | Pos: LW | Age: 21 | Nat: England
+  - Marvelous Nakamba sold/moved to Luton Town (Premier League) | Fee: £2,552,000 | Pos: DM | Age: 29 | Nat: Zimbabwe
+  - Keinan Davis sold/moved to Udinese Calcio (Serie A) | Fee: £2,024,000 | Pos: CF | Age: 25 | Nat: England
+  - Ashley Young sold/moved to Everton FC (Premier League) | Fee: Free transfer | Pos: DL | Age: 38 | Nat: England
+  - Wesley Moraes sold/moved to Stoke City (Championship) | Fee: Unknown | Pos: CF | Age: 26 | Nat: Brazil
+  - Philippe Coutinho sold/moved to Al-Duhail SC (Stars League) | Fee: loan transfer | Pos: LW | Age: 31 | Nat: Brazil
+  - Morgan Sanson sold/moved to OGC Nice (Ligue 1) | Fee: loan transfer | Pos: MC | Age: 28 | Nat: France
+  - Viljami Sinisalo sold/moved to Exeter City (League One) | Fee: loan transfer | Pos: GK | Age: 21 | Nat: Finland
+  - Jed Steer sold/moved to No team (No team) | Fee: Free transfer | Pos: GK | Age: 30 | Nat: England

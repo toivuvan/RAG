@@ -1,0 +1,25 @@
+# West Ham United — EPL 2023-24 Transfer Window
+Final league position: 9/20 (2023-24 Premier League)
+
+## Financial Summary
+  West Ham United transfer spending for 2023/24 is: £121,052,800 of player purchases £137,632,000 of player sales | West Ham United net transfer balance for 2023/24 season is £16,579,200
+
+## Players Signed (Arrivals) — 9 transfers
+  - Mohammed Kudus signed from Ajax Amsterdam (Eredivisie) | Fee: £37,840,000 | Pos: AM | Age: 23 | Nat: Ghana
+  - Edson Álvarez signed from Ajax Amsterdam (Eredivisie) | Fee: £33,440,000 | Pos: DM | Age: 25 | Nat: Mexico
+  - James Ward-Prowse signed from Southampton FC (Championship) | Fee: £30,624,000 | Pos: MC | Age: 28 | Nat: England
+  - Konstantinos Mavropanos signed from VfB Stuttgart (Bundesliga) | Fee: £17,600,000 | Pos: DC | Age: 25 | Nat: Greece
+  - Andy Irving signed from SK Austria Klagenfurt (Bundesliga) | Fee: £1,548,800 | Pos: MC | Age: 23 | Nat: Scotland
+  - Divin Mubama signed from West Ham United U21 (Premier League 2) | Fee: Free transfer | Pos: CF | Age: 18 | Nat: England
+  - Nikola Vlasic signed from Torino FC (Serie A) | Fee: Loan | Pos: AM | Age: 25 | Nat: Croatia
+  - Flynn Downes signed from Southampton FC (Championship) | Fee: Loan | Pos: MC | Age: 25 | Nat: England
+  - Arthur Masuaku signed from Besiktas JK (Süper Lig) | Fee: Loan | Pos: DL | Age: 29 | Nat: DR Congo
+
+## Players Sold / Departed — 7 transfers
+  - Declan Rice sold/moved to Arsenal FC (Premier League) | Fee: £102,608,000 | Pos: DM | Age: 24 | Nat: England
+  - Gianluca Scamacca sold/moved to Atalanta BC (Serie A) | Fee: £22,000,000 | Pos: CF | Age: 24 | Nat: Italy
+  - Nikola Vlasic sold/moved to Torino FC (Serie A) | Fee: £11,264,000 | Pos: AM | Age: 25 | Nat: Croatia
+  - Arthur Masuaku sold/moved to Besiktas JK (Süper Lig) | Fee: £1,760,000 | Pos: DL | Age: 29 | Nat: DR Congo
+  - Manuel Lanzini sold/moved to CA River Plate (Liga Profesional) | Fee: Free transfer | Pos: AM | Age: 30 | Nat: Argentina
+  - Flynn Downes sold/moved to Southampton FC (Championship) | Fee: loan transfer | Pos: MC | Age: 24 | Nat: England
+  - Andy Irving sold/moved to SK Austria Klagenfurt (Bundesliga) | Fee: loan transfer | Pos: MC | Age: 23 | Nat: Scotland

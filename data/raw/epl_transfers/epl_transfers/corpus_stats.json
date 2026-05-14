@@ -1,0 +1,8 @@
+{
+  "docs": 21,
+  "chunks": 142,
+  "total_chars": 156511,
+  "estimated_tokens": 39127,
+  "avg_chunk_chars": 1102,
+  "output_file": "./epl_transfers/corpus.jsonl"
+}
