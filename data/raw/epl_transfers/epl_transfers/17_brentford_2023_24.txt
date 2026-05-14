@@ -1,0 +1,36 @@
+# Brentford — EPL 2023-24 Transfer Window
+Final league position: 17/20 (2023-24 Premier League)
+
+## Financial Summary
+  Brentford transfer spending for 2023/24 is: £57,068,000 of player purchases £5,940,000 of player sales | Brentford net transfer balance for 2023/24 season is £-51,128,000
+
+## Players Signed (Arrivals) — 14 transfers
+  - Nathan Collins signed from Wolverhampton Wanderers (Premier League) | Fee: £23,628,000 | Pos: DC | Age: 22 | Nat: Ireland
+  - Kevin Schade signed from SC Freiburg (Bundesliga) | Fee: £22,000,000 | Pos: RW | Age: 21 | Nat: Germany
+  - Mark Flekken signed from SC Freiburg (Bundesliga) | Fee: £11,440,000 | Pos: GK | Age: 30 | Nat: Netherlands
+  - Neal Maupay signed from Everton FC (Premier League) | Fee: loan transfer | Pos: CF | Age: 27 | Nat: France
+  - Yegor Yarmolyuk signed from Brentford FC B (No team) | Fee: Free transfer | Pos: AM | Age: 19 | Nat: Ukraine
+  - Ryan Trevitt signed from Brentford FC B (No team) | Fee: Free transfer | Pos: MC | Age: 20 | Nat: England
+  - Sergi Canós signed from Olympiacos Piraeus (Super League 1) | Fee: Loan | Pos: RW | Age: 26 | Nat: Spain
+  - Mads Bech Sörensen signed from FC Groningen (Keuken Kampioen Divisie) | Fee: Loan | Pos: DC | Age: 24 | Nat: Denmark
+  - Mads Bidstrup signed from FC Nordsjaelland (Superligaen) | Fee: Loan | Pos: MC | Age: 22 | Nat: Denmark
+  - Matthew Cox signed from Bristol Rovers (League One) | Fee: Loan | Pos: GK | Age: 21 | Nat: England
+  - Joel Valencia signed from De Graafschap Doetinchem (Keuken Kampioen Divisie) | Fee: Loan | Pos: AM | Age: 28 | Nat: Ecuador
+  - Paris Maghoma signed from Bolton Wanderers (League One) | Fee: Loan | Pos: MC | Age: 23 | Nat: England
+  - Fin Stevens signed from Oxford United (League One) | Fee: Loan | Pos: DR | Age: 21 | Nat: Wales
+  - Ryan Trevitt signed from Exeter City (League One) | Fee: Loan | Pos: MC | Age: 21 | Nat: England
+
+## Players Sold / Departed — 13 transfers
+  - Mads Bidstrup sold/moved to Red Bull Salzburg (Bundesliga) | Fee: £5,280,000 | Pos: MC | Age: 22 | Nat: Denmark
+  - David Raya sold/moved to Arsenal FC (Premier League) | Fee: Loan with fee | Pos: GK | Age: 27 | Nat: Spain
+  - Halil Dervisoglu sold/moved to Galatasaray (Süper Lig) | Fee: £440,000 | Pos: CF | Age: 23 | Nat: Turkey
+  - Sergi Canós sold/moved to Valencia CF (LaLiga) | Fee: £220,000 | Pos: RW | Age: 26 | Nat: Spain
+  - Pontus Jansson sold/moved to Malmö FF (Allsvenskan) | Fee: Free transfer | Pos: DC | Age: 32 | Nat: Sweden
+  - Joel Valencia sold/moved to Zaglebie Sosnowiec (Fortuna 1 Liga) | Fee: Free transfer | Pos: AM | Age: 28 | Nat: Ecuador
+  - Mads Bech Sörensen sold/moved to FC Midtjylland (Superligaen) | Fee: Unknown | Pos: DC | Age: 24 | Nat: Denmark
+  - Matthew Cox sold/moved to Bristol Rovers (League One) | Fee: loan transfer | Pos: GK | Age: 20 | Nat: England
+  - Paris Maghoma sold/moved to Bolton Wanderers (League One) | Fee: loan transfer | Pos: MC | Age: 22 | Nat: England
+  - Fin Stevens sold/moved to Oxford United (League One) | Fee: loan transfer | Pos: DR | Age: 20 | Nat: Wales
+  - Ryan Trevitt sold/moved to Exeter City (League One) | Fee: loan transfer | Pos: MC | Age: 20 | Nat: England
+  - Tariqe Fosu sold/moved to No team (No team) | Fee: Free transfer | Pos: LW | Age: 27 | Nat: Ghana
+  - Kevin Schade sold/moved to SC Freiburg (Bundesliga) | Fee: Loan | Pos: RW | Age: 21 | Nat: Germany

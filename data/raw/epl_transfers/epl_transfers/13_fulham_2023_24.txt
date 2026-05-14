@@ -1,0 +1,38 @@
+# Fulham — EPL 2023-24 Transfer Window
+Final league position: 13/20 (2023-24 Premier League)
+
+## Financial Summary
+  Fulham transfer spending for 2023/24 is: £60,253,600 of player purchases £46,288,000 of player sales | Fulham net transfer balance for 2023/24 season is £-13,965,600
+
+## Players Signed (Arrivals) — 15 transfers
+  - Alex Iwobi signed from Everton FC (Premier League) | Fee: £22,616,000 | Pos: AM | Age: 27 | Nat: Nigeria
+  - Calvin Bassey signed from Ajax Amsterdam (Eredivisie) | Fee: £19,800,000 | Pos: DC | Age: 23 | Nat: Nigeria
+  - Timothy Castagne signed from Leicester City (Championship) | Fee: £11,440,000 | Pos: DR | Age: 27 | Nat: Belgium
+  - Raúl Jiménez signed from Wolverhampton Wanderers (Premier League) | Fee: £5,632,000 | Pos: CF | Age: 32 | Nat: Mexico
+  - Steven Benda signed from Swansea City (Championship) | Fee: £765,600 | Pos: GK | Age: 24 | Nat: Germany
+  - Adama Traoré signed from Wolverhampton Wanderers (Premier League) | Fee: Free transfer | Pos: RW | Age: 27 | Nat: Spain
+  - Fodé Ballo-Touré signed from AC Milan (Serie A) | Fee: loan transfer | Pos: DL | Age: 26 | Nat: Senegal
+  - Jay Stansfield signed from Fulham FC U21 (Premier League 2) | Fee: Free transfer | Pos: CF | Age: 20 | Nat: England
+  - Luke Harris signed from Fulham FC U21 (Premier League 2) | Fee: Free transfer | Pos: AM | Age: 18 | Nat: Wales
+  - Kevin Mbabu signed from Servette FC (Super League) | Fee: Loan | Pos: DR | Age: 28 | Nat: Switzerland
+  - Paulo Gazzaniga signed from Girona FC (LaLiga) | Fee: Loan | Pos: GK | Age: 31 | Nat: Argentina
+  - Ivan Cavaleiro signed from Alanyaspor (Süper Lig) | Fee: Loan | Pos: LW | Age: 29 | Nat: Angola
+  - Joe Bryan signed from OGC Nice (Ligue 1) | Fee: Loan | Pos: DL | Age: 29 | Nat: England
+  - Jay Stansfield signed from Birmingham City (Championship) | Fee: Loan | Pos: CF | Age: 21 | Nat: England
+  - Terence Kongolo signed from Le Havre AC (Ligue 1) | Fee: Loan | Pos: DC | Age: 29 | Nat: Netherlands
+
+## Players Sold / Departed — 14 transfers
+  - Aleksandar Mitrovic sold/moved to Al-Hilal SFC (Saudi Pro League) | Fee: £46,288,000 | Pos: CF | Age: 28 | Nat: Serbia
+  - Paulo Gazzaniga sold/moved to Girona FC (LaLiga) | Fee: Free transfer | Pos: GK | Age: 31 | Nat: Argentina
+  - Ivan Cavaleiro sold/moved to LOSC Lille (Ligue 1) | Fee: Free transfer | Pos: LW | Age: 29 | Nat: Angola
+  - Joe Bryan sold/moved to Millwall FC (Championship) | Fee: Free transfer | Pos: DL | Age: 29 | Nat: England
+  - Neeskens Kebano sold/moved to Al-Jazira (UAE Pro League) | Fee: Free transfer | Pos: LW | Age: 31 | Nat: DR Congo
+  - Shane Duffy sold/moved to Norwich City (Championship) | Fee: Free transfer | Pos: DC | Age: 31 | Nat: Ireland
+  - Anthony Knockaert sold/moved to Valenciennes FC (Ligue 2) | Fee: Free transfer | Pos: RW | Age: 31 | Nat: France
+  - Steven Sessegnon sold/moved to Wigan Athletic (League One) | Fee: Free transfer | Pos: DR | Age: 23 | Nat: England
+  - Kevin Mbabu sold/moved to FC Augsburg (Bundesliga) | Fee: loan transfer | Pos: DR | Age: 28 | Nat: Switzerland
+  - Jay Stansfield sold/moved to Birmingham City (Championship) | Fee: loan transfer | Pos: CF | Age: 20 | Nat: England
+  - Terence Kongolo sold/moved to Rapid Vienna (Bundesliga) | Fee: loan transfer | Pos: DC | Age: 29 | Nat: Netherlands
+  - Manor Solomon sold/moved to Shakhtar Donetsk (Premier Liga) | Fee: Loan | Pos: LW | Age: 23 | Nat: Israel
+  - Cédric Soares sold/moved to Arsenal FC (Premier League) | Fee: Loan | Pos: DR | Age: 31 | Nat: Portugal
+  - Layvin Kurzawa sold/moved to Paris Saint-Germain (Ligue 1) | Fee: Loan | Pos: DL | Age: 30 | Nat: France

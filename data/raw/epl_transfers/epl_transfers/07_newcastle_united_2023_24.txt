@@ -1,0 +1,35 @@
+# Newcastle United — EPL 2023-24 Transfer Window
+Final league position: 7/20 (2023-24 Premier League)
+
+## Financial Summary
+  Newcastle United transfer spending for 2023/24 is: £134,816,000 of player purchases £39,248,000 of player sales | Newcastle United net transfer balance for 2023/24 season is £-95,568,000
+
+## Players Signed (Arrivals) — 12 transfers
+  - Sandro Tonali signed from AC Milan (Serie A) | Fee: £56,320,000 | Pos: DM | Age: 23 | Nat: Italy
+  - Harvey Barnes signed from Leicester City (Championship) | Fee: £38,720,000 | Pos: LW | Age: 25 | Nat: England
+  - Tino Livramento signed from Southampton FC (Championship) | Fee: £32,736,000 | Pos: DR | Age: 20 | Nat: England
+  - Yankuba Minteh signed from Odense Boldklub (Superligaen) | Fee: £7,040,000 | Pos: RW | Age: 18 | Nat: The Gambia
+  - Lewis Hall signed from Chelsea FC (Premier League) | Fee: loan transfer | Pos: DL | Age: 18 | Nat: England
+  - Chris Wood signed from Nottingham Forest (Premier League) | Fee: Loan | Pos: CF | Age: 31 | Nat: New Zealand
+  - Ryan Fraser signed from Southampton FC (Championship) | Fee: Loan | Pos: LW | Age: 30 | Nat: Scotland
+  - Jamal Lewis signed from Watford FC (Championship) | Fee: Loan | Pos: DL | Age: 26 | Nat: Northern Ireland
+  - Jeff Hendrick signed from Sheffield Wednesday (Championship) | Fee: Loan | Pos: MC | Age: 32 | Nat: Ireland
+  - Harrison Ashby signed from Swansea City (Championship) | Fee: Loan | Pos: DR | Age: 22 | Nat: Scotland
+  - Garang Kuol signed from Heart of Midlothian FC (Premiership) | Fee: Loan | Pos: RW | Age: 18 | Nat: Australia
+  - Kell Watts signed from Wigan Athletic (League One) | Fee: Loan | Pos: DC | Age: 24 | Nat: England
+
+## Players Sold / Departed — 14 transfers
+  - Allan Saint-Maximin sold/moved to Al-Ahli SFC (Saudi Pro League) | Fee: £23,936,000 | Pos: LW | Age: 26 | Nat: France
+  - Chris Wood sold/moved to Nottingham Forest (Premier League) | Fee: £14,960,000 | Pos: CF | Age: 31 | Nat: New Zealand
+  - Karl Darlow sold/moved to Leeds United (Championship) | Fee: £352,000 | Pos: GK | Age: 32 | Nat: England
+  - Ryan Fraser sold/moved to Southampton FC (Championship) | Fee: loan transfer | Pos: LW | Age: 29 | Nat: Scotland
+  - Jamal Lewis sold/moved to Watford FC (Championship) | Fee: loan transfer | Pos: DL | Age: 25 | Nat: Northern Ireland
+  - Isaac Hayden sold/moved to Standard Liège (Jupiler Pro League) | Fee: loan transfer | Pos: DM | Age: 28 | Nat: England
+  - Yankuba Minteh sold/moved to Feyenoord Rotterdam (Eredivisie) | Fee: loan transfer | Pos: RW | Age: 18 | Nat: The Gambia
+  - Jeff Hendrick sold/moved to Sheffield Wednesday (Championship) | Fee: loan transfer | Pos: MC | Age: 31 | Nat: Ireland
+  - Harrison Ashby sold/moved to Swansea City (Championship) | Fee: loan transfer | Pos: DR | Age: 21 | Nat: Scotland
+  - Garang Kuol sold/moved to FC Volendam (Eredivisie) | Fee: loan transfer | Pos: RW | Age: 18 | Nat: Australia
+  - Kell Watts sold/moved to Wigan Athletic (League One) | Fee: loan transfer | Pos: DC | Age: 23 | Nat: England
+  - Matty Longstaff sold/moved to No team (No team) | Fee: Free transfer | Pos: MC | Age: 23 | Nat: England
+  - Ciaran Clark sold/moved to No team (No team) | Fee: Free transfer | Pos: DC | Age: 33 | Nat: Ireland
+  - Lewis Hall sold/moved to Chelsea FC (Premier League) | Fee: Loan | Pos: DL | Age: 19 | Nat: England

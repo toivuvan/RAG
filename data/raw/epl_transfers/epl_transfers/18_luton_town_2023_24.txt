@@ -1,0 +1,51 @@
+# Luton Town — EPL 2023-24 Transfer Window
+Final league position: 18/20 (2023-24 Premier League)
+
+## Financial Summary
+  Luton Town transfer spending for 2023/24 is: £20,020,000 of player purchases £0 of player sales | Luton Town net transfer balance for 2023/24 season is £-20,020,000
+
+## Players Signed (Arrivals) — 22 transfers
+  - Ryan Giles signed from Wolverhampton Wanderers (Premier League) | Fee: £5,148,000 | Pos: DL | Age: 23 | Nat: England
+  - Tahith Chong signed from Birmingham City (Championship) | Fee: £4,136,000 | Pos: AM | Age: 23 | Nat: Netherlands
+  - Mads Andersen signed from Barnsley FC (League One) | Fee: £3,080,000 | Pos: DC | Age: 25 | Nat: Denmark
+  - Jacob Brown signed from Stoke City (Championship) | Fee: £2,552,000 | Pos: CF | Age: 25 | Nat: Scotland
+  - Marvelous Nakamba signed from Aston Villa (Premier League) | Fee: £2,552,000 | Pos: DM | Age: 29 | Nat: Zimbabwe
+  - Thomas Kaminski signed from Blackburn Rovers (Championship) | Fee: £2,552,000 | Pos: GK | Age: 30 | Nat: Belgium
+  - Ross Barkley signed from OGC Nice (Ligue 1) | Fee: Free transfer | Pos: MC | Age: 29 | Nat: England
+  - Chiedozie Ogbene signed from Rotherham United (Championship) | Fee: Free transfer | Pos: RW | Age: 26 | Nat: Ireland
+  - Teden Mengi signed from Manchester United (Premier League) | Fee: Unknown | Pos: DC | Age: 21 | Nat: England
+  - Tim Krul signed from Norwich City (Championship) | Fee: Unknown | Pos: GK | Age: 35 | Nat: Netherlands
+  - Albert Sambi Lokonga signed from Arsenal FC (Premier League) | Fee: loan transfer | Pos: MC | Age: 23 | Nat: Belgium
+  - Issa Kaboré signed from Manchester City (Premier League) | Fee: loan transfer | Pos: DR | Age: 22 | Nat: Burkina Faso
+  - Allan Campbell signed from Millwall FC (Championship) | Fee: Loan | Pos: MC | Age: 25 | Nat: Scotland
+  - Fred Onyedinma signed from Rotherham United (Championship) | Fee: Loan | Pos: AM | Age: 27 | Nat: Nigeria
+  - Jack Walton signed from Dundee United FC (Championship) | Fee: Loan | Pos: GK | Age: 26 | Nat: England
+  - Admiral Muskwe signed from Exeter City (League One) | Fee: Loan | Pos: CF | Age: 25 | Nat: Zimbabwe
+  - Elliot Thorpe signed from Shrewsbury Town (League One) | Fee: Loan | Pos: MC | Age: 23 | Nat: Wales
+  - Louie Watson signed from Charlton Athletic (League One) | Fee: Loan | Pos: MC | Age: 22 | Nat: Ireland
+  - Joe Taylor signed from Colchester United (League Two) | Fee: Loan | Pos: CF | Age: 21 | Nat: Wales
+  - Dion Pereira signed from Sutton United (League Two) | Fee: Loan | Pos: LW | Age: 25 | Nat: England
+  - John McAtee signed from Barnsley FC (League One) | Fee: Loan | Pos: ST | Age: 24 | Nat: England
+  - Aribim Pepple signed from Bromley FC (National League) | Fee: Loan | Pos: CF | Age: 21 | Nat: Canada
+
+## Players Sold / Departed — 20 transfers
+  - Sonny Bradley sold/moved to Derby County (League One) | Fee: Free transfer | Pos: DC | Age: 31 | Nat: England
+  - Harry Isted sold/moved to Charlton Athletic (League One) | Fee: Free transfer | Pos: GK | Age: 26 | Nat: England
+  - Carlos Mendes sold/moved to Bolton Wanderers (League One) | Fee: Unknown | Pos: RW | Age: 24 | Nat: Spain
+  - Allan Campbell sold/moved to Millwall FC (Championship) | Fee: loan transfer | Pos: MC | Age: 25 | Nat: Scotland
+  - Fred Onyedinma sold/moved to Rotherham United (Championship) | Fee: loan transfer | Pos: AM | Age: 26 | Nat: Nigeria
+  - Jack Walton sold/moved to Dundee United FC (Championship) | Fee: loan transfer | Pos: GK | Age: 25 | Nat: England
+  - Admiral Muskwe sold/moved to Exeter City (League One) | Fee: loan transfer | Pos: CF | Age: 25 | Nat: Zimbabwe
+  - Elliot Thorpe sold/moved to Shrewsbury Town (League One) | Fee: loan transfer | Pos: MC | Age: 22 | Nat: Wales
+  - Louie Watson sold/moved to Charlton Athletic (League One) | Fee: loan transfer | Pos: MC | Age: 22 | Nat: Ireland
+  - Joe Taylor sold/moved to Colchester United (League Two) | Fee: loan transfer | Pos: CF | Age: 20 | Nat: Wales
+  - John McAtee sold/moved to Barnsley FC (League One) | Fee: loan transfer | Pos: ST | Age: 24 | Nat: England
+  - Dion Pereira sold/moved to Sutton United (League Two) | Fee: loan transfer | Pos: LW | Age: 24 | Nat: England
+  - Aribim Pepple sold/moved to Bromley FC (National League) | Fee: loan transfer | Pos: CF | Age: 20 | Nat: Canada
+  - Luke Freeman sold/moved to No team (No team) | Fee: Free transfer | Pos: AM | Age: 31 | Nat: England
+  - Matt Macey sold/moved to No team (No team) | Fee: Free transfer | Pos: GK | Age: 28 | Nat: England
+  - Henri Lansbury sold/moved to No team (No team) | Fee: Free transfer | Pos: MC | Age: 32 | Nat: England
+  - Glen Rea sold/moved to No team (No team) | Fee: Free transfer | Pos: DM | Age: 28 | Nat: Ireland
+  - Albert Sambi Lokonga sold/moved to Arsenal FC (Premier League) | Fee: Loan | Pos: MC | Age: 24 | Nat: Belgium
+  - Issa Kaboré sold/moved to Manchester City (Premier League) | Fee: Loan | Pos: DR | Age: 23 | Nat: Burkina Faso
+  - Ethan Horvath sold/moved to Nottingham Forest (Premier League) | Fee: Loan | Pos: GK | Age: 28 | Nat: United States

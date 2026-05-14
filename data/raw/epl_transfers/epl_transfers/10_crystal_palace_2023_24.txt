@@ -1,0 +1,21 @@
+# Crystal Palace — EPL 2023-24 Transfer Window
+Final league position: 10/20 (2023-24 Premier League)
+
+## Financial Summary
+  Crystal Palace transfer spending for 2023/24 is: £34,056,000 of player purchases £0 of player sales | Crystal Palace net transfer balance for 2023/24 season is £-34,056,000
+
+## Players Signed (Arrivals) — 6 transfers
+  - Matheus França signed from CR Flamengo (Série A) | Fee: £17,600,000 | Pos: AM | Age: 19 | Nat: Brazil
+  - Dean Henderson signed from Manchester United (Premier League) | Fee: £15,400,000 | Pos: GK | Age: 26 | Nat: England
+  - Rob Holding signed from Arsenal FC (Premier League) | Fee: £1,056,000 | Pos: DC | Age: 27 | Nat: England
+  - Jefferson Lerma signed from AFC Bournemouth (Premier League) | Fee: Free transfer | Pos: DM | Age: 28 | Nat: Colombia
+  - Jack Butland signed from Manchester United (Premier League) | Fee: Loan | Pos: GK | Age: 30 | Nat: England
+  - Luke Plange signed from Carlisle United (League One) | Fee: Loan | Pos: CF | Age: 21 | Nat: England
+
+## Players Sold / Departed — 6 transfers
+  - Wilfried Zaha sold/moved to Galatasaray (Süper Lig) | Fee: Free transfer | Pos: LW | Age: 30 | Nat: Cote d'Ivoire
+  - Luka Milivojevic sold/moved to FC Shabab Al-Ahli Dubai (UAE Pro League) | Fee: Free transfer | Pos: DM | Age: 32 | Nat: Serbia
+  - Jack Butland sold/moved to Rangers FC (Premiership) | Fee: Free transfer | Pos: GK | Age: 30 | Nat: England
+  - Vicente Guaita sold/moved to Celta de Vigo (LaLiga) | Fee: Free transfer | Pos: GK | Age: 36 | Nat: Spain
+  - Luke Plange sold/moved to Carlisle United (League One) | Fee: loan transfer | Pos: CF | Age: 20 | Nat: England
+  - James McArthur sold/moved to No team (No team) | Fee: Free transfer | Pos: MC | Age: 35 | Nat: Scotland

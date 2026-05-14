@@ -1,0 +1,59 @@
+# Brighton — EPL 2023-24 Transfer Window
+Final league position: 11/20 (2023-24 Premier League)
+
+## Financial Summary
+  Brighton and Hove Albion transfer spending for 2023/24 is: £89,056,000 of player purchases £166,760,000 of player sales | Brighton and Hove Albion net transfer balance for 2023/24 season is £77,704,000
+
+## Players Signed (Arrivals) — 29 transfers
+  - João Pedro signed from Watford FC (Championship) | Fee: £30,096,000 | Pos: ST | Age: 21 | Nat: Brazil
+  - Carlos Baleba signed from LOSC Lille (Ligue 1) | Fee: £23,760,000 | Pos: MC | Age: 19 | Nat: Cameroon
+  - Bart Verbruggen signed from RSC Anderlecht (Jupiler Pro League) | Fee: £17,600,000 | Pos: GK | Age: 20 | Nat: Netherlands
+  - Igor signed from ACF Fiorentina (Serie A) | Fee: £14,960,000 | Pos: DC | Age: 25 | Nat: Brazil
+  - Adrian Mazilu signed from FCV Farul Constanta (SuperLiga) | Fee: £2,640,000 | Pos: RW | Age: 18 | Nat: Romania
+  - Mahmoud Dahoud signed from Borussia Dortmund (Bundesliga) | Fee: Free transfer | Pos: MC | Age: 27 | Nat: Germany
+  - James Milner signed from Liverpool FC (Premier League) | Fee: Free transfer | Pos: MC | Age: 37 | Nat: England
+  - Ansu Fati signed from FC Barcelona (LaLiga) | Fee: loan transfer | Pos: LW | Age: 20 | Nat: Spain
+  - Reda Khadra signed from Brighton & Hove Albion U21 (No team) | Fee: Free transfer | Pos: AM | Age: 21 | Nat: Germany
+  - Carl Rushworth signed from Brighton & Hove Albion U21 (Premier League 2) | Fee: Free transfer | Pos: GK | Age: 21 | Nat: England
+  - Jensen Weir signed from Brighton & Hove Albion U21 (Premier League 2) | Fee: Free transfer | Pos: MC | Age: 21 | Nat: England
+  - Ed Turns signed from Brighton & Hove Albion U21 (Premier League 2) | Fee: Free transfer | Pos: DC | Age: 20 | Nat: Wales
+  - Marc Leonard signed from Brighton & Hove Albion U21 (Premier League 2) | Fee: Free transfer | Pos: MC | Age: 21 | Nat: Scotland
+  - Andy Moran signed from Brighton & Hove Albion U21 (Premier League 2) | Fee: Free transfer | Pos: AM | Age: 19 | Nat: Ireland
+  - Simon Adingra signed from Royale Union Saint Gilloise (Jupiler Pro League) | Fee: Loan | Pos: LW | Age: 21 | Nat: Cote d'Ivoire
+  - Kacper Kozlowski signed from Vitesse Arnhem (Eredivisie) | Fee: Loan | Pos: MC | Age: 19 | Nat: Poland
+  - Abdallah Sima signed from Rangers FC (Premiership) | Fee: Loan | Pos: RW | Age: 22 | Nat: Senegal
+  - Abdallah Sima signed from Angers SCO (Ligue 2) | Fee: Loan | Pos: RW | Age: 22 | Nat: Senegal
+  - Yasin Ayari signed from Coventry City (Championship) | Fee: Loan | Pos: MC | Age: 20 | Nat: Sweden
+  - Jeremy Sarmiento signed from West Bromwich Albion (Championship) | Fee: Loan | Pos: AM | Age: 21 | Nat: Ecuador
+  - Steven Alzate signed from Standard Liège (Jupiler Pro League) | Fee: Loan | Pos: MC | Age: 24 | Nat: Colombia
+  - Andi Zeqiri signed from FC Basel 1893 (Super League) | Fee: Loan | Pos: CF | Age: 24 | Nat: Switzerland
+  - Michal Karbownik signed from Fortuna Düsseldorf (2. Bundesliga) | Fee: Loan | Pos: DL | Age: 22 | Nat: Poland
+  - Kjell Scherpen signed from Vitesse Arnhem (Eredivisie) | Fee: Loan | Pos: GK | Age: 23 | Nat: Netherlands
+  - Carl Rushworth signed from Swansea City (Championship) | Fee: Loan | Pos: GK | Age: 22 | Nat: England
+  - Jensen Weir signed from Blackpool FC (League One) | Fee: Loan | Pos: MC | Age: 22 | Nat: England
+  - Ed Turns signed from Leyton Orient (League One) | Fee: Loan | Pos: DC | Age: 21 | Nat: Wales
+  - Marc Leonard signed from Northampton Town (League One) | Fee: Loan | Pos: MC | Age: 22 | Nat: Scotland
+  - Andy Moran signed from Blackburn Rovers (Championship) | Fee: Loan | Pos: AM | Age: 20 | Nat: Ireland
+
+## Players Sold / Departed — 21 transfers
+  - Moisés Caicedo sold/moved to Chelsea FC (Premier League) | Fee: £102,080,000 | Pos: DM | Age: 21 | Nat: Ecuador
+  - Alexis Mac Allister sold/moved to Liverpool FC (Premier League) | Fee: £36,960,000 | Pos: MC | Age: 24 | Nat: Argentina
+  - Robert Sánchez sold/moved to Chelsea FC (Premier League) | Fee: £20,240,000 | Pos: GK | Age: 25 | Nat: Spain
+  - Andi Zeqiri sold/moved to KRC Genk (Jupiler Pro League) | Fee: £2,420,000 | Pos: CF | Age: 24 | Nat: Switzerland
+  - Michal Karbownik sold/moved to Hertha BSC (2. Bundesliga) | Fee: £2,200,000 | Pos: DL | Age: 22 | Nat: Poland
+  - Reda Khadra sold/moved to Stade Reims (Ligue 1) | Fee: £1,672,000 | Pos: AM | Age: 22 | Nat: Germany
+  - Aaron Connolly sold/moved to Hull City (Championship) | Fee: £1,188,000 | Pos: CF | Age: 23 | Nat: Ireland
+  - Deniz Undav sold/moved to VfB Stuttgart (Bundesliga) | Fee: Loan with fee | Pos: CF | Age: 27 | Nat: Germany
+  - Haydon Roberts sold/moved to Bristol City (Championship) | Fee: Free transfer | Pos: DL | Age: 21 | Nat: England
+  - Taylor Richards sold/moved to Queens Park Rangers (Championship) | Fee: Unknown | Pos: MC | Age: 22 | Nat: England
+  - Kacper Kozlowski sold/moved to Vitesse Arnhem (Eredivisie) | Fee: loan transfer | Pos: MC | Age: 19 | Nat: Poland
+  - Abdallah Sima sold/moved to Rangers FC (Premiership) | Fee: loan transfer | Pos: RW | Age: 22 | Nat: Senegal
+  - Yasin Ayari sold/moved to Coventry City (Championship) | Fee: loan transfer | Pos: MC | Age: 19 | Nat: Sweden
+  - Jeremy Sarmiento sold/moved to West Bromwich Albion (Championship) | Fee: loan transfer | Pos: AM | Age: 21 | Nat: Ecuador
+  - Steven Alzate sold/moved to Standard Liège (Jupiler Pro League) | Fee: loan transfer | Pos: MC | Age: 24 | Nat: Colombia
+  - Kjell Scherpen sold/moved to SK Sturm Graz (Bundesliga) | Fee: loan transfer | Pos: GK | Age: 23 | Nat: Netherlands
+  - Carl Rushworth sold/moved to Swansea City (Championship) | Fee: loan transfer | Pos: GK | Age: 22 | Nat: England
+  - Jensen Weir sold/moved to Blackpool FC (League One) | Fee: loan transfer | Pos: MC | Age: 21 | Nat: England
+  - Ed Turns sold/moved to Leyton Orient (League One) | Fee: loan transfer | Pos: DC | Age: 20 | Nat: Wales
+  - Marc Leonard sold/moved to Northampton Town (League One) | Fee: loan transfer | Pos: MC | Age: 21 | Nat: Scotland
+  - Andy Moran sold/moved to Blackburn Rovers (Championship) | Fee: loan transfer | Pos: AM | Age: 19 | Nat: Ireland
