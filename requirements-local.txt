@@ -1,0 +1,7 @@
+faiss-cpu>=1.8.0
+matplotlib>=3.8.0
+numpy>=1.26.0
+requests>=2.32.0
+sentence-transformers>=3.0.0
+jupyterlab>=4.0.0
+ipykernel>=6.29.0
