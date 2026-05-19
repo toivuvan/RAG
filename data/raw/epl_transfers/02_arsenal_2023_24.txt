@@ -1,0 +1,37 @@
+# Arsenal — EPL 2023-24 Transfer Window
+Final league position: 2/20 (2023-24 Premier League)
+
+## Financial Summary
+  Arsenal transfer spending for 2023/24 is: £203,808,000 of player purchases £57,244,000 of player sales | Arsenal net transfer balance for 2023/24 season is £-146,564,000
+
+## Players Signed (Arrivals) — 14 transfers
+  - Declan Rice signed from West Ham United (Premier League) | Fee: £102,608,000 | Pos: DM | Age: 24 | Nat: England
+  - Kai Havertz signed from Chelsea FC (Premier League) | Fee: £66,000,000 | Pos: AM | Age: 24 | Nat: Germany
+  - Jurrien Timber signed from Ajax Amsterdam (Eredivisie) | Fee: £35,200,000 | Pos: DC | Age: 22 | Nat: Netherlands
+  - David Raya signed from Brentford FC (Premier League) | Fee: Loan with fee | Pos: GK | Age: 27 | Nat: Spain
+  - Folarin Balogun signed from Stade Reims (Ligue 1) | Fee: Loan | Pos: CF | Age: 21 | Nat: United States
+  - Nicolas Pépé signed from OGC Nice (Ligue 1) | Fee: Loan | Pos: RW | Age: 28 | Nat: Cote d'Ivoire
+  - Nuno Tavares signed from Olympique Marseille (Ligue 1) | Fee: Loan | Pos: DL | Age: 23 | Nat: Portugal
+  - Albert Sambi Lokonga signed from Luton Town (Premier League) | Fee: Loan | Pos: MC | Age: 24 | Nat: Belgium
+  - Pablo Marí signed from AC Monza (Serie A) | Fee: Loan | Pos: DC | Age: 29 | Nat: Spain
+  - Cédric Soares signed from Fulham FC (Premier League) | Fee: Loan | Pos: DR | Age: 31 | Nat: Portugal
+  - Arthur Okonkwo signed from Wrexham AFC (League Two) | Fee: Loan | Pos: GK | Age: 22 | Nat: England
+  - Arthur Okonkwo signed from SK Sturm Graz (Bundesliga) | Fee: Loan | Pos: GK | Age: 21 | Nat: England
+  - Rúnar Alex Rúnarsson signed from Cardiff City (Championship) | Fee: Loan | Pos: GK | Age: 29 | Nat: Iceland
+  - Rúnar Alex Rúnarsson signed from Alanyaspor (Süper Lig) | Fee: Loan | Pos: GK | Age: 28 | Nat: Iceland
+
+## Players Sold / Departed — 14 transfers
+  - Folarin Balogun sold/moved to AS Monaco (Ligue 1) | Fee: £26,400,000 | Pos: CF | Age: 22 | Nat: United States
+  - Granit Xhaka sold/moved to Bayer 04 Leverkusen (Bundesliga) | Fee: £13,200,000 | Pos: DM | Age: 30 | Nat: Switzerland
+  - Matt Turner sold/moved to Nottingham Forest (Premier League) | Fee: £7,172,000 | Pos: GK | Age: 29 | Nat: United States
+  - Auston Trusty sold/moved to Sheffield United (Premier League) | Fee: £5,104,000 | Pos: DC | Age: 24 | Nat: United States
+  - Pablo Marí sold/moved to AC Monza (Serie A) | Fee: £4,312,000 | Pos: DC | Age: 29 | Nat: Spain
+  - Kieran Tierney sold/moved to Real Sociedad (LaLiga) | Fee: Loan with fee | Pos: DL | Age: 26 | Nat: Scotland
+  - Rob Holding sold/moved to Crystal Palace (Premier League) | Fee: £1,056,000 | Pos: DC | Age: 27 | Nat: England
+  - Nuno Tavares sold/moved to Nottingham Forest (Premier League) | Fee: Loan with fee | Pos: DL | Age: 23 | Nat: Portugal
+  - Marquinhos sold/moved to FC Nantes (Ligue 1) | Fee: Loan with fee | Pos: RW | Age: 20 | Nat: Brazil
+  - Nicolas Pépé sold/moved to Trabzonspor (Süper Lig) | Fee: Free transfer | Pos: RW | Age: 28 | Nat: Cote d'Ivoire
+  - Ainsley Maitland-Niles sold/moved to Olympique Lyon (Ligue 1) | Fee: Free transfer | Pos: MC | Age: 25 | Nat: England
+  - Albert Sambi Lokonga sold/moved to Luton Town (Premier League) | Fee: loan transfer | Pos: MC | Age: 23 | Nat: Belgium
+  - Arthur Okonkwo sold/moved to Wrexham AFC (League Two) | Fee: loan transfer | Pos: GK | Age: 21 | Nat: England
+  - Rúnar Alex Rúnarsson sold/moved to Cardiff City (Championship) | Fee: loan transfer | Pos: GK | Age: 28 | Nat: Iceland

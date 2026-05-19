@@ -1,0 +1,105 @@
+{
+  "instructions": "Two annotators answer each question independently. Answers are compared to compute Cohen's Kappa.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "From which league did Brighton sign Abdallah Sima?",
+      "type": "transfer_league"
+    },
+    {
+      "id": 2,
+      "question": "What was the transfer fee for Odysseas Vlachodimos?",
+      "type": "transfer_fee"
+    },
+    {
+      "id": 3,
+      "question": "What position does Folarin Balogun play?",
+      "type": "player_position"
+    },
+    {
+      "id": 4,
+      "question": "Where did Ross Barkley transfer from before joining Luton Town?",
+      "type": "transfer_origin"
+    },
+    {
+      "id": 5,
+      "question": "How old was Andrew Omobamidele when he joined Nottingham Forest?",
+      "type": "player_age"
+    },
+    {
+      "id": 6,
+      "question": "What position does Sandro Tonali play at Newcastle United?",
+      "type": "player_position"
+    },
+    {
+      "id": 7,
+      "question": "How old was Tommy Doyle when he left Manchester City?",
+      "type": "player_age"
+    },
+    {
+      "id": 8,
+      "question": "How much did Arsenal receive for Pablo Marí?",
+      "type": "transfer_fee"
+    },
+    {
+      "id": 9,
+      "question": "How many minutes did Leandro Trossard play in 2023-24?",
+      "type": "player_minutes"
+    },
+    {
+      "id": 10,
+      "question": "Which club did Antoine Semenyo play for in the 2023-24 Premier League?",
+      "type": "player_club"
+    },
+    {
+      "id": 11,
+      "question": "Which club did Jorginho play for in the 2023-24 Premier League?",
+      "type": "player_club"
+    },
+    {
+      "id": 12,
+      "question": "How old was Josh Bowler when he left Nottingham Forest?",
+      "type": "player_age"
+    },
+    {
+      "id": 13,
+      "question": "Which club did Alex Oxlade-Chamberlain join after Liverpool?",
+      "type": "transfer_dest"
+    },
+    {
+      "id": 14,
+      "question": "Where did Jeremy Sarmiento move after leaving Brighton?",
+      "type": "transfer_dest"
+    },
+    {
+      "id": 15,
+      "question": "What position does Calum Chambers play at Aston Villa?",
+      "type": "player_position"
+    },
+    {
+      "id": 16,
+      "question": "How many appearances did Maxwel Cornet make in the 2023-24 season?",
+      "type": "player_apps"
+    },
+    {
+      "id": 17,
+      "question": "What position does Christian Pulisic play?",
+      "type": "player_position"
+    },
+    {
+      "id": 18,
+      "question": "Which club did David Raya join Arsenal from?",
+      "type": "transfer_origin"
+    },
+    {
+      "id": 19,
+      "question": "Where did Chelsea play West Ham United?",
+      "type": "match_venue"
+    },
+    {
+      "id": 20,
+      "question": "What is Benicio Boaitey's nationality?",
+      "type": "player_nationality"
+    }
+  ]
+}

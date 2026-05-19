@@ -1,0 +1,39 @@
+# Manchester City — EPL 2023-24 Transfer Window
+Final league position: 1/20 (2023-24 Premier League)
+
+## Financial Summary
+  Manchester City transfer spending for 2023/24 is: £212,168,000 of player purchases £100,760,000 of player sales | Manchester City net transfer balance for 2023/24 season is £-111,408,000
+
+## Players Signed (Arrivals) — 15 transfers
+  - Josko Gvardiol signed from RB Leipzig (Bundesliga) | Fee: £79,200,000 | Pos: DC | Age: 21 | Nat: Croatia
+  - Matheus Nunes signed from Wolverhampton Wanderers (Premier League) | Fee: £54,560,000 | Pos: MC | Age: 25 | Nat: Portugal
+  - Jérémy Doku signed from Stade Rennais FC (Ligue 1) | Fee: £52,800,000 | Pos: RW | Age: 21 | Nat: Belgium
+  - Mateo Kovacic signed from Chelsea FC (Premier League) | Fee: £25,608,000 | Pos: MC | Age: 29 | Nat: Croatia
+  - James McAtee signed from Manchester City U21 (Premier League 2) | Fee: Free transfer | Pos: MC | Age: 20 | Nat: England
+  - Tommy Doyle signed from Manchester City U21 (Premier League 2) | Fee: Free transfer | Pos: MC | Age: 21 | Nat: England
+  - João Cancelo signed from Bayern Munich (Bundesliga) | Fee: Loan | Pos: DR | Age: 29 | Nat: Portugal
+  - Taylor Harwood-Bellis signed from Southampton FC (Championship) | Fee: Loan | Pos: DC | Age: 22 | Nat: England
+  - James McAtee signed from Sheffield United (Premier League) | Fee: Loan | Pos: MC | Age: 21 | Nat: England
+  - Issa Kaboré signed from Luton Town (Premier League) | Fee: Loan | Pos: DR | Age: 23 | Nat: Burkina Faso
+  - Tommy Doyle signed from Wolverhampton Wanderers (Premier League) | Fee: Loan | Pos: MC | Age: 22 | Nat: England
+  - Issa Kaboré signed from Olympique Marseille (Ligue 1) | Fee: Loan | Pos: DR | Age: 22 | Nat: Burkina Faso
+  - Yangel Herrera signed from Girona FC (LaLiga) | Fee: Loan | Pos: MC | Age: 25 | Nat: Venezuela
+  - Nahuel Bustos signed from Club Atlético Talleres (Liga Profesional) | Fee: Loan | Pos: CF | Age: 24 | Nat: Argentina
+  - Slobodan Tedic signed from Charlton Athletic (League One) | Fee: Loan | Pos: CF | Age: 24 | Nat: Serbia
+
+## Players Sold / Departed — 15 transfers
+  - Cole Palmer sold/moved to Chelsea FC (Premier League) | Fee: £41,360,000 | Pos: RW | Age: 21 | Nat: England
+  - Riyad Mahrez sold/moved to Al-Ahli SFC (Saudi Pro League) | Fee: £30,800,000 | Pos: RW | Age: 32 | Nat: Algeria
+  - Aymeric Laporte sold/moved to Al-Nassr FC (Saudi Pro League) | Fee: £24,200,000 | Pos: DC | Age: 29 | Nat: Spain
+  - Yangel Herrera sold/moved to Girona FC (LaLiga) | Fee: £4,400,000 | Pos: MC | Age: 25 | Nat: Venezuela
+  - Ilkay Gündogan sold/moved to FC Barcelona (LaLiga) | Fee: Free transfer | Pos: MC | Age: 32 | Nat: Germany
+  - Nahuel Bustos sold/moved to Club Atlético Talleres (Liga Profesional) | Fee: Free transfer | Pos: CF | Age: 24 | Nat: Argentina
+  - Benjamin Mendy sold/moved to FC Lorient (Ligue 1) | Fee: Free transfer | Pos: DL | Age: 29 | Nat: France
+  - João Cancelo sold/moved to FC Barcelona (LaLiga) | Fee: loan transfer | Pos: DR | Age: 29 | Nat: Portugal
+  - Taylor Harwood-Bellis sold/moved to Southampton FC (Championship) | Fee: loan transfer | Pos: DC | Age: 21 | Nat: England
+  - James McAtee sold/moved to Sheffield United (Premier League) | Fee: loan transfer | Pos: MC | Age: 20 | Nat: England
+  - Máximo Perrone sold/moved to UD Las Palmas (LaLiga) | Fee: loan transfer | Pos: DM | Age: 20 | Nat: Argentina
+  - Issa Kaboré sold/moved to Luton Town (Premier League) | Fee: loan transfer | Pos: DR | Age: 22 | Nat: Burkina Faso
+  - Tommy Doyle sold/moved to Wolverhampton Wanderers (Premier League) | Fee: loan transfer | Pos: MC | Age: 21 | Nat: England
+  - Josh Wilson-Esbrand sold/moved to Stade Reims (Ligue 1) | Fee: loan transfer | Pos: DL | Age: 20 | Nat: England
+  - Slobodan Tedic sold/moved to Charlton Athletic (League One) | Fee: loan transfer | Pos: CF | Age: 23 | Nat: Serbia

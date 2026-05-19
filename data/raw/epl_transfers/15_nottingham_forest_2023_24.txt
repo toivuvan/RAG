@@ -1,0 +1,64 @@
+# Nottingham Forest — EPL 2023-24 Transfer Window
+Final league position: 15/20 (2023-24 Premier League)
+
+## Financial Summary
+  Nottingham Forest transfer spending for 2023/24 is: £106,392,000 of player purchases £57,041,600 of player sales | Nottingham Forest net transfer balance for 2023/24 season is £-49,350,400
+
+## Players Signed (Arrivals) — 27 transfers
+  - Ibrahim Sangaré signed from PSV Eindhoven (Eredivisie) | Fee: £30,800,000 | Pos: DM | Age: 25 | Nat: Cote d'Ivoire
+  - Anthony Elanga signed from Manchester United (Premier League) | Fee: £15,400,000 | Pos: LW | Age: 21 | Nat: Sweden
+  - Chris Wood signed from Newcastle United (Premier League) | Fee: £14,960,000 | Pos: CF | Age: 31 | Nat: New Zealand
+  - Andrew Omobamidele signed from Norwich City (Championship) | Fee: £11,308,000 | Pos: DC | Age: 21 | Nat: Ireland
+  - Murillo signed from Sport Club Corinthians Paulista (Série A) | Fee: £10,560,000 | Pos: DC | Age: 21 | Nat: Brazil
+  - Nicolás Domínguez signed from Bologna FC 1909 (Serie A) | Fee: £8,800,000 | Pos: MC | Age: 25 | Nat: Argentina
+  - Matt Turner signed from Arsenal FC (Premier League) | Fee: £7,172,000 | Pos: GK | Age: 29 | Nat: United States
+  - Odysseas Vlachodimos signed from SL Benfica (Liga Portugal) | Fee: £4,312,000 | Pos: GK | Age: 29 | Nat: Greece
+  - Callum Hudson-Odoi signed from Chelsea FC (Premier League) | Fee: £3,080,000 | Pos: LW | Age: 22 | Nat: England
+  - Nuno Tavares signed from Arsenal FC (Premier League) | Fee: Loan with fee | Pos: DL | Age: 23 | Nat: Portugal
+  - Ola Aina signed from Torino FC (Serie A) | Fee: Free transfer | Pos: DR | Age: 26 | Nat: Nigeria
+  - Andrey Santos signed from Chelsea FC (Premier League) | Fee: loan transfer | Pos: DM | Age: 19 | Nat: Brazil
+  - Gonzalo Montiel signed from Sevilla FC (LaLiga) | Fee: loan transfer | Pos: DR | Age: 26 | Nat: Argentina
+  - Divock Origi signed from AC Milan (Serie A) | Fee: loan transfer | Pos: CF | Age: 28 | Nat: Belgium
+  - Lewis O'Brien signed from Middlesbrough FC (Championship) | Fee: Loan | Pos: MC | Age: 25 | Nat: England
+  - Lewis O'Brien signed from D.C. United (MLS) | Fee: Loan | Pos: MC | Age: 24 | Nat: England
+  - Ui-jo Hwang signed from Norwich City (Championship) | Fee: Loan | Pos: CF | Age: 31 | Nat: Korea, South
+  - Ui-jo Hwang signed from FC Seoul (K League 1) | Fee: Loan | Pos: CF | Age: 30 | Nat: Korea, South
+  - Jonathan Panzo signed from Cardiff City (Championship) | Fee: Loan | Pos: DC | Age: 23 | Nat: England
+  - Richie Laryea signed from Vancouver Whitecaps FC (MLS) | Fee: Loan | Pos: DR | Age: 28 | Nat: Canada
+  - Richie Laryea signed from Toronto FC (MLS) | Fee: Loan | Pos: DR | Age: 28 | Nat: Canada
+  - Loïc Mbe Soh signed from EA Guingamp (Ligue 2) | Fee: Loan | Pos: DC | Age: 22 | Nat: France
+  - Josh Bowler signed from Cardiff City (Championship) | Fee: Loan | Pos: RW | Age: 25 | Nat: England
+  - Ethan Horvath signed from Luton Town (Premier League) | Fee: Loan | Pos: GK | Age: 28 | Nat: United States
+  - Braian Ojeda signed from Real Salt Lake City (MLS) | Fee: Loan | Pos: MC | Age: 23 | Nat: Paraguay
+  - Mohamed Dräger signed from FC Luzern (Super League) | Fee: Loan | Pos: DR | Age: 27 | Nat: Tunisia
+  - Brandon Aguilera signed from Estoril Praia U23 (Liga Revelação) | Fee: Loan | Pos: AM | Age: 20 | Nat: Costa Rica
+
+## Players Sold / Departed — 28 transfers
+  - Brennan Johnson sold/moved to Tottenham Hotspur (Premier League) | Fee: £48,400,000 | Pos: RW | Age: 22 | Nat: Wales
+  - Sam Surridge sold/moved to Nashville SC (MLS) | Fee: £5,104,000 | Pos: CF | Age: 24 | Nat: England
+  - Braian Ojeda sold/moved to Real Salt Lake City (MLS) | Fee: £3,168,000 | Pos: MC | Age: 23 | Nat: Paraguay
+  - Mohamed Dräger sold/moved to FC Basel 1893 (Super League) | Fee: £369,600 | Pos: DR | Age: 27 | Nat: Tunisia
+  - Jack Colback sold/moved to Queens Park Rangers (Championship) | Fee: Free transfer | Pos: DM | Age: 33 | Nat: England
+  - Cafú sold/moved to Rotherham United (Championship) | Fee: Free transfer | Pos: MC | Age: 30 | Nat: Portugal
+  - Jordan Smith sold/moved to Stockport County (League Two) | Fee: Free transfer | Pos: GK | Age: 28 | Nat: England
+  - Steve Cook sold/moved to Queens Park Rangers (Championship) | Fee: Unknown | Pos: DC | Age: 32 | Nat: England
+  - Gustavo Scarpa sold/moved to Olympiacos Piraeus (Super League 1) | Fee: loan transfer | Pos: AM | Age: 29 | Nat: Brazil
+  - Remo Freuler sold/moved to Bologna FC 1909 (Serie A) | Fee: loan transfer | Pos: MC | Age: 31 | Nat: Switzerland
+  - Emmanuel Dennis sold/moved to Basaksehir FK (Süper Lig) | Fee: loan transfer | Pos: CF | Age: 25 | Nat: Nigeria
+  - Lewis O'Brien sold/moved to Middlesbrough FC (Championship) | Fee: loan transfer | Pos: MC | Age: 24 | Nat: England
+  - Jonjo Shelvey sold/moved to Caykur Rizespor (Süper Lig) | Fee: loan transfer | Pos: MC | Age: 31 | Nat: England
+  - Omar Richards sold/moved to Olympiacos Piraeus (Super League 1) | Fee: loan transfer | Pos: DL | Age: 25 | Nat: England
+  - Ui-jo Hwang sold/moved to Norwich City (Championship) | Fee: loan transfer | Pos: CF | Age: 31 | Nat: Korea, South
+  - Jonathan Panzo sold/moved to Cardiff City (Championship) | Fee: loan transfer | Pos: DC | Age: 22 | Nat: England
+  - Richie Laryea sold/moved to Vancouver Whitecaps FC (MLS) | Fee: loan transfer | Pos: DR | Age: 28 | Nat: Canada
+  - Loïc Mbe Soh sold/moved to Almere City FC (Eredivisie) | Fee: loan transfer | Pos: DC | Age: 22 | Nat: France
+  - Josh Bowler sold/moved to Cardiff City (Championship) | Fee: loan transfer | Pos: RW | Age: 24 | Nat: England
+  - Alex Mighten sold/moved to KV Kortrijk (Jupiler Pro League) | Fee: loan transfer | Pos: LW | Age: 21 | Nat: England
+  - Jesse Lingard sold/moved to No team (No team) | Fee: Free transfer | Pos: AM | Age: 30 | Nat: England
+  - André Ayew sold/moved to No team (No team) | Fee: Free transfer | Pos: LW | Age: 33 | Nat: Ghana
+  - Lyle Taylor sold/moved to No team (No team) | Fee: Free transfer | Pos: CF | Age: 33 | Nat: Montserrat
+  - Adnan Kanuric sold/moved to No team (No team) | Fee: Free transfer | Pos: GK | Age: 22 | Nat: Bosnia-Herzegovina
+  - Renan Lodi sold/moved to Atlético de Madrid (LaLiga) | Fee: Loan | Pos: DL | Age: 25 | Nat: Brazil
+  - Andrey Santos sold/moved to Chelsea FC (Premier League) | Fee: Loan | Pos: DM | Age: 20 | Nat: Brazil
+  - Chris Wood sold/moved to Newcastle United (Premier League) | Fee: Loan | Pos: CF | Age: 31 | Nat: New Zealand
+  - Keylor Navas sold/moved to Paris Saint-Germain (Ligue 1) | Fee: Loan | Pos: GK | Age: 36 | Nat: Costa Rica

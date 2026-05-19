@@ -1,0 +1,41 @@
+# Tottenham Hotspur — EPL 2023-24 Transfer Window
+Final league position: 5/20 (2023-24 Premier League)
+
+## Financial Summary
+  Tottenham Hotspur transfer spending for 2023/24 is: £218,768,000 of player purchases £106,568,000 of player sales | Tottenham Hotspur net transfer balance for 2023/24 season is £-112,200,000
+
+## Players Signed (Arrivals) — 19 transfers
+  - Brennan Johnson signed from Nottingham Forest (Premier League) | Fee: £48,400,000 | Pos: RW | Age: 22 | Nat: Wales
+  - James Maddison signed from Leicester City (Championship) | Fee: £40,744,000 | Pos: AM | Age: 26 | Nat: England
+  - Pedro Porro signed from Sporting CP (Liga Portugal) | Fee: £35,200,000 | Pos: DR | Age: 23 | Nat: Spain
+  - Micky van de Ven signed from VfL Wolfsburg (Bundesliga) | Fee: £35,200,000 | Pos: DC | Age: 22 | Nat: Netherlands
+  - Dejan Kulusevski signed from Juventus FC (Serie A) | Fee: £26,400,000 | Pos: RW | Age: 23 | Nat: Sweden
+  - Guglielmo Vicario signed from FC Empoli (Serie A) | Fee: £17,600,000 | Pos: GK | Age: 26 | Nat: Italy
+  - Alejo Véliz signed from CA Rosario Central (Liga Profesional) | Fee: £13,200,000 | Pos: CF | Age: 19 | Nat: Argentina
+  - Ashley Phillips signed from Blackburn Rovers (Championship) | Fee: £2,024,000 | Pos: DC | Age: 18 | Nat: England
+  - Manor Solomon signed from Shakhtar Donetsk (Premier Liga) | Fee: Free transfer | Pos: LW | Age: 23 | Nat: Israel
+  - Destiny Udogie signed from Udinese Calcio (Serie A) | Fee: Loan | Pos: DL | Age: 20 | Nat: Italy
+  - Tanguy Ndombélé signed from SSC Napoli (Serie A) | Fee: Loan | Pos: MC | Age: 26 | Nat: France
+  - Bryan Gil signed from Sevilla FC (LaLiga) | Fee: Loan | Pos: LW | Age: 22 | Nat: Spain
+  - Giovani Lo Celso signed from Villarreal CF (LaLiga) | Fee: Loan | Pos: AM | Age: 27 | Nat: Argentina
+  - Harry Winks signed from UC Sampdoria (Serie B) | Fee: Loan | Pos: DM | Age: 27 | Nat: England
+  - Sergio Reguilón signed from Atlético de Madrid (LaLiga) | Fee: Loan | Pos: DL | Age: 26 | Nat: Spain
+  - Djed Spence signed from Leeds United (Championship) | Fee: Loan | Pos: DR | Age: 23 | Nat: England
+  - Djed Spence signed from Stade Rennais FC (Ligue 1) | Fee: Loan | Pos: DR | Age: 22 | Nat: England
+  - Joe Rodon signed from Leeds United (Championship) | Fee: Loan | Pos: DC | Age: 26 | Nat: Wales
+  - Joe Rodon signed from Stade Rennais FC (Ligue 1) | Fee: Loan | Pos: DC | Age: 25 | Nat: Wales
+
+## Players Sold / Departed — 13 transfers
+  - Harry Kane sold/moved to Bayern Munich (Bundesliga) | Fee: £88,000,000 | Pos: CF | Age: 30 | Nat: England
+  - Harry Winks sold/moved to Leicester City (Championship) | Fee: £10,208,000 | Pos: DM | Age: 27 | Nat: England
+  - Davinson Sánchez sold/moved to Galatasaray (Süper Lig) | Fee: £8,360,000 | Pos: DC | Age: 27 | Nat: Colombia
+  - Djed Spence sold/moved to Leeds United (Championship) | Fee: Loan with fee | Pos: DR | Age: 23 | Nat: England
+  - Lucas Moura sold/moved to São Paulo Futebol Clube (Série A) | Fee: Free transfer | Pos: RW | Age: 30 | Nat: Brazil
+  - Tanguy Ndombélé sold/moved to Galatasaray (Süper Lig) | Fee: loan transfer | Pos: MC | Age: 26 | Nat: France
+  - Sergio Reguilón sold/moved to Manchester United (Premier League) | Fee: loan transfer | Pos: DL | Age: 26 | Nat: Spain
+  - Joe Rodon sold/moved to Leeds United (Championship) | Fee: loan transfer | Pos: DC | Age: 25 | Nat: Wales
+  - Japhet Tanganga sold/moved to FC Augsburg (Bundesliga) | Fee: loan transfer | Pos: DC | Age: 24 | Nat: England
+  - Dejan Kulusevski sold/moved to Juventus FC (Serie A) | Fee: Loan | Pos: RW | Age: 23 | Nat: Sweden
+  - Pedro Porro sold/moved to Sporting CP (Liga Portugal) | Fee: Loan | Pos: DR | Age: 23 | Nat: Spain
+  - Arnaut Danjuma sold/moved to Villarreal CF (LaLiga) | Fee: Loan | Pos: LW | Age: 26 | Nat: Netherlands
+  - Clément Lenglet sold/moved to FC Barcelona (LaLiga) | Fee: Loan | Pos: DC | Age: 28 | Nat: France

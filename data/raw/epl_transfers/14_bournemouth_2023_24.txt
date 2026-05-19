@@ -1,0 +1,42 @@
+# Bournemouth — EPL 2023-24 Transfer Window
+Final league position: 14/20 (2023-24 Premier League)
+
+## Financial Summary
+  AFC Bournemouth transfer spending for 2023/24 is: £112,367,200 of player purchases £1,320,000 of player sales | AFC Bournemouth net transfer balance for 2023/24 season is £-111,047,200
+
+## Players Signed (Arrivals) — 17 transfers
+  - Tyler Adams signed from Leeds United (Championship) | Fee: £23,672,000 | Pos: DM | Age: 24 | Nat: United States
+  - Hamed Junior Traorè signed from US Sassuolo (Serie A) | Fee: £22,545,600 | Pos: AM | Age: 23 | Nat: Cote d'Ivoire
+  - Alex Scott signed from Bristol City (Championship) | Fee: £20,240,000 | Pos: MC | Age: 19 | Nat: England
+  - Milos Kerkez signed from AZ Alkmaar (Eredivisie) | Fee: £15,725,600 | Pos: DL | Age: 19 | Nat: Hungary
+  - Romain Faivre signed from Olympique Lyon (Ligue 1) | Fee: £13,200,000 | Pos: MR | Age: 24 | Nat: France
+  - Justin Kluivert signed from AS Roma (Serie A) | Fee: £9,856,000 | Pos: LW | Age: 24 | Nat: Netherlands
+  - Max Aarons signed from Norwich City (Championship) | Fee: £7,128,000 | Pos: DR | Age: 23 | Nat: England
+  - Luis Sinisterra signed from Leeds United (Championship) | Fee: loan transfer | Pos: LW | Age: 24 | Nat: Colombia
+  - Ionut Radu signed from Inter Milan (Serie A) | Fee: loan transfer | Pos: GK | Age: 26 | Nat: Romania
+  - Jaidon Anthony signed from Leeds United (Championship) | Fee: Loan | Pos: LW | Age: 24 | Nat: England
+  - Siriki Dembélé signed from AJ Auxerre (Ligue 2) | Fee: Loan | Pos: LW | Age: 26 | Nat: Scotland
+  - Mark Travers signed from Stoke City (Championship) | Fee: Loan | Pos: GK | Age: 25 | Nat: Ireland
+  - Jamal Lowe signed from Queens Park Rangers (Championship) | Fee: Loan | Pos: RW | Age: 28 | Nat: Jamaica
+  - Emiliano Marcondes signed from FC Nordsjaelland (Superligaen) | Fee: Loan | Pos: AM | Age: 28 | Nat: Denmark
+  - James Hill signed from Blackburn Rovers (Championship) | Fee: Loan | Pos: DC | Age: 22 | Nat: England
+  - James Hill signed from Heart of Midlothian FC (Premiership) | Fee: Loan | Pos: DC | Age: 21 | Nat: England
+  - Will Dennis signed from Kilmarnock FC (Premiership) | Fee: Loan | Pos: GK | Age: 23 | Nat: England
+
+## Players Sold / Departed — 16 transfers
+  - Ben Pearson sold/moved to Stoke City (Championship) | Fee: £1,320,000 | Pos: DM | Age: 28 | Nat: England
+  - Jefferson Lerma sold/moved to Crystal Palace (Premier League) | Fee: Free transfer | Pos: DM | Age: 28 | Nat: Colombia
+  - Jordan Zemura sold/moved to Udinese Calcio (Serie A) | Fee: Free transfer | Pos: DL | Age: 23 | Nat: Zimbabwe
+  - Jack Stacey sold/moved to Norwich City (Championship) | Fee: Free transfer | Pos: DR | Age: 27 | Nat: England
+  - Siriki Dembélé sold/moved to Birmingham City (Championship) | Fee: Unknown | Pos: LW | Age: 26 | Nat: Scotland
+  - Christian Saydee sold/moved to Portsmouth FC (League One) | Fee: Unknown | Pos: CF | Age: 21 | Nat: England
+  - Romain Faivre sold/moved to FC Lorient (Ligue 1) | Fee: loan transfer | Pos: MR | Age: 25 | Nat: France
+  - Jaidon Anthony sold/moved to Leeds United (Championship) | Fee: loan transfer | Pos: LW | Age: 23 | Nat: England
+  - Mark Travers sold/moved to Stoke City (Championship) | Fee: loan transfer | Pos: GK | Age: 24 | Nat: Ireland
+  - Jamal Lowe sold/moved to Swansea City (Championship) | Fee: loan transfer | Pos: RW | Age: 29 | Nat: Jamaica
+  - James Hill sold/moved to Blackburn Rovers (Championship) | Fee: loan transfer | Pos: DC | Age: 21 | Nat: England
+  - Will Dennis sold/moved to Kilmarnock FC (Premiership) | Fee: loan transfer | Pos: GK | Age: 22 | Nat: England
+  - Junior Stanislas sold/moved to No team (No team) | Fee: Free transfer | Pos: LW | Age: 33 | Nat: England
+  - Luis Sinisterra sold/moved to Leeds United (Championship) | Fee: Loan | Pos: LW | Age: 24 | Nat: Colombia
+  - Hamed Junior Traorè sold/moved to US Sassuolo (Serie A) | Fee: Loan | Pos: AM | Age: 23 | Nat: Cote d'Ivoire
+  - Matías Viña sold/moved to AS Roma (Serie A) | Fee: Loan | Pos: DL | Age: 25 | Nat: Uruguay

@@ -1,0 +1,30 @@
+# Liverpool — EPL 2023-24 Transfer Window
+Final league position: 3/20 (2023-24 Premier League)
+
+## Financial Summary
+  Liverpool transfer spending for 2023/24 is: £151,360,000 of player purchases £53,416,000 of player sales | Liverpool net transfer balance for 2023/24 season is £-97,944,000
+
+## Players Signed (Arrivals) — 9 transfers
+  - Dominik Szoboszlai signed from RB Leipzig (Bundesliga) | Fee: £61,600,000 | Pos: AM | Age: 22 | Nat: Hungary
+  - Alexis Mac Allister signed from Brighton & Hove Albion (Premier League) | Fee: £36,960,000 | Pos: MC | Age: 24 | Nat: Argentina
+  - Ryan Gravenberch signed from Bayern Munich (Bundesliga) | Fee: £35,200,000 | Pos: MC | Age: 21 | Nat: Netherlands
+  - Wataru Endo signed from VfB Stuttgart (Bundesliga) | Fee: £17,600,000 | Pos: DM | Age: 30 | Nat: Japan
+  - Ben Doak signed from Liverpool FC U18 (U18 Premier League) | Fee: Free transfer | Pos: RW | Age: 17 | Nat: Scotland
+  - Sepp van den Berg signed from FC Schalke 04 (2. Bundesliga) | Fee: Loan | Pos: DC | Age: 21 | Nat: Netherlands
+  - Calvin Ramsay signed from Preston North End (Championship) | Fee: Loan | Pos: DR | Age: 20 | Nat: Scotland
+  - Nathaniel Phillips signed from Celtic FC (Premiership) | Fee: Loan | Pos: DC | Age: 26 | Nat: England
+  - Rhys Williams signed from Aberdeen FC (Premiership) | Fee: Loan | Pos: DC | Age: 23 | Nat: England
+
+## Players Sold / Departed — 12 transfers
+  - Fabinho sold/moved to Al-Ittihad Club (Saudi Pro League) | Fee: £41,096,000 | Pos: DM | Age: 29 | Nat: Brazil
+  - Jordan Henderson sold/moved to Al-Ettifaq FC (Saudi Pro League) | Fee: £12,320,000 | Pos: MC | Age: 33 | Nat: England
+  - Roberto Firmino sold/moved to Al-Ahli SFC (Saudi Pro League) | Fee: Free transfer | Pos: CF | Age: 31 | Nat: Brazil
+  - Naby Keïta sold/moved to SV Werder Bremen (Bundesliga) | Fee: Free transfer | Pos: MC | Age: 28 | Nat: Guinea
+  - Alex Oxlade-Chamberlain sold/moved to Besiktas JK (Süper Lig) | Fee: Free transfer | Pos: MC | Age: 29 | Nat: England
+  - James Milner sold/moved to Brighton & Hove Albion (Premier League) | Fee: Free transfer | Pos: MC | Age: 37 | Nat: England
+  - Fábio Carvalho sold/moved to RB Leipzig (Bundesliga) | Fee: loan transfer | Pos: AM | Age: 20 | Nat: Portugal
+  - Sepp van den Berg sold/moved to 1.FSV Mainz 05 (Bundesliga) | Fee: loan transfer | Pos: DC | Age: 21 | Nat: Netherlands
+  - Calvin Ramsay sold/moved to Preston North End (Championship) | Fee: loan transfer | Pos: DR | Age: 19 | Nat: Scotland
+  - Nathaniel Phillips sold/moved to Celtic FC (Premiership) | Fee: loan transfer | Pos: DC | Age: 26 | Nat: England
+  - Rhys Williams sold/moved to Aberdeen FC (Premiership) | Fee: loan transfer | Pos: DC | Age: 22 | Nat: England
+  - Arthur Melo sold/moved to Juventus FC (Serie A) | Fee: Loan | Pos: MC | Age: 26 | Nat: Brazil

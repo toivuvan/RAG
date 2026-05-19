@@ -1,0 +1,37 @@
+# Manchester United — EPL 2023-24 Transfer Window
+Final league position: 8/20 (2023-24 Premier League)
+
+## Financial Summary
+  Manchester United transfer spending for 2023/24 is: £173,096,000 of player purchases £48,699,200 of player sales | Manchester United net transfer balance for 2023/24 season is £-124,396,800
+
+## Players Signed (Arrivals) — 11 transfers
+  - Rasmus Højlund signed from Atalanta BC (Serie A) | Fee: £66,000,000 | Pos: CF | Age: 20 | Nat: Denmark
+  - Mason Mount signed from Chelsea FC (Premier League) | Fee: £56,496,000 | Pos: AM | Age: 24 | Nat: England
+  - André Onana signed from Inter Milan (Serie A) | Fee: £46,200,000 | Pos: GK | Age: 27 | Nat: Cameroon
+  - Sofyan Amrabat signed from ACF Fiorentina (Serie A) | Fee: Loan with fee | Pos: DM | Age: 27 | Nat: Morocco
+  - Altay Bayindir signed from Fenerbahce (Süper Lig) | Fee: £4,400,000 | Pos: GK | Age: 25 | Nat: Turkey
+  - Jonny Evans signed from Leicester City (Championship) | Fee: Free transfer | Pos: DC | Age: 35 | Nat: Northern Ireland
+  - Sergio Reguilón signed from Tottenham Hotspur (Premier League) | Fee: loan transfer | Pos: DL | Age: 26 | Nat: Spain
+  - Alex Telles signed from Sevilla FC (LaLiga) | Fee: Loan | Pos: DL | Age: 30 | Nat: Brazil
+  - Brandon Williams signed from Ipswich Town (Championship) | Fee: Loan | Pos: DL | Age: 23 | Nat: England
+  - Eric Bailly signed from Olympique Marseille (Ligue 1) | Fee: Loan | Pos: DC | Age: 29 | Nat: Cote d'Ivoire
+  - Matej Kovar signed from AC Sparta Prague (Fortuna Liga) | Fee: Loan | Pos: GK | Age: 23 | Nat: Czech Republic
+
+## Players Sold / Departed — 17 transfers
+  - Dean Henderson sold/moved to Crystal Palace (Premier League) | Fee: £15,400,000 | Pos: GK | Age: 26 | Nat: England
+  - Anthony Elanga sold/moved to Nottingham Forest (Premier League) | Fee: £15,400,000 | Pos: LW | Age: 21 | Nat: Sweden
+  - Fred sold/moved to Fenerbahce (Süper Lig) | Fee: £8,571,200 | Pos: MC | Age: 30 | Nat: Brazil
+  - Matej Kovar sold/moved to Bayer 04 Leverkusen (Bundesliga) | Fee: £4,400,000 | Pos: GK | Age: 23 | Nat: Czech Republic
+  - Alex Telles sold/moved to Al-Nassr FC (Saudi Pro League) | Fee: £4,048,000 | Pos: DL | Age: 30 | Nat: Brazil
+  - Zidane Iqbal sold/moved to FC Utrecht (Eredivisie) | Fee: £880,000 | Pos: MC | Age: 20 | Nat: Iraq
+  - Eric Bailly sold/moved to Besiktas JK (Süper Lig) | Fee: Free transfer | Pos: DC | Age: 29 | Nat: Cote d'Ivoire
+  - Teden Mengi sold/moved to Luton Town (Premier League) | Fee: Unknown | Pos: DC | Age: 21 | Nat: England
+  - Brandon Williams sold/moved to Ipswich Town (Championship) | Fee: loan transfer | Pos: DL | Age: 22 | Nat: England
+  - Álvaro Fernandez sold/moved to Granada CF (LaLiga) | Fee: loan transfer | Pos: DL | Age: 20 | Nat: Spain
+  - Mason Greenwood sold/moved to Getafe CF (LaLiga) | Fee: loan transfer | Pos: RW | Age: 21 | Nat: England
+  - David de Gea sold/moved to No team (No team) | Fee: Free transfer | Pos: GK | Age: 32 | Nat: Spain
+  - Axel Tuanzebe sold/moved to No team (No team) | Fee: Free transfer | Pos: DC | Age: 25 | Nat: England
+  - Phil Jones sold/moved to No team (No team) | Fee: Free transfer | Pos: DC | Age: 31 | Nat: England
+  - Marcel Sabitzer sold/moved to Bayern Munich (Bundesliga) | Fee: Loan | Pos: MC | Age: 29 | Nat: Austria
+  - Wout Weghorst sold/moved to Burnley FC (Premier League) | Fee: Loan | Pos: CF | Age: 30 | Nat: Netherlands
+  - Jack Butland sold/moved to Crystal Palace (Premier League) | Fee: Loan | Pos: GK | Age: 30 | Nat: England

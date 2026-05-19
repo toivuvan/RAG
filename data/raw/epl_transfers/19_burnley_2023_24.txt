@@ -1,0 +1,40 @@
+# Burnley — EPL 2023-24 Transfer Window
+Final league position: 19/20 (2023-24 Premier League)
+
+## Financial Summary
+  Burnley transfer spending for 2023/24 is: £97,724,000 of player purchases £2,024,000 of player sales | Burnley net transfer balance for 2023/24 season is £-95,700,000
+
+## Players Signed (Arrivals) — 20 transfers
+  - Zeki Amdouni signed from FC Basel 1893 (Super League) | Fee: £16,368,000 | Pos: CF | Age: 22 | Nat: Switzerland
+  - James Trafford signed from Manchester City U21 (No team) | Fee: £15,224,000 | Pos: GK | Age: 20 | Nat: England
+  - Aaron Ramsey signed from Aston Villa U21 (Premier League 2) | Fee: £14,476,000 | Pos: AM | Age: 20 | Nat: England
+  - Jordan Beyer signed from Borussia Mönchengladbach (Bundesliga) | Fee: £13,200,000 | Pos: DC | Age: 23 | Nat: Germany
+  - Sander Berge signed from Sheffield United (Premier League) | Fee: £12,232,000 | Pos: DM | Age: 25 | Nat: Norway
+  - Wilson Odobert signed from ESTAC Troyes (Ligue 2) | Fee: £10,560,000 | Pos: RW | Age: 18 | Nat: France
+  - Dara O'Shea signed from West Bromwich Albion (Championship) | Fee: £6,864,000 | Pos: DC | Age: 24 | Nat: Ireland
+  - Michael Obafemi signed from Swansea City (Championship) | Fee: £3,520,000 | Pos: CF | Age: 22 | Nat: Ireland
+  - Hannes Delcroix signed from RSC Anderlecht (Jupiler Pro League) | Fee: £2,640,000 | Pos: DC | Age: 24 | Nat: Belgium
+  - Luca Koleosho signed from RCD Espanyol B (Segunda Federación - Gr. III) | Fee: £2,640,000 | Pos: RW | Age: 18 | Nat: Italy
+  - Nathan Redmond signed from Besiktas JK (Süper Lig) | Fee: Free transfer | Pos: RW | Age: 29 | Nat: England
+  - Han-Noah Massengo signed from Bristol City (Championship) | Fee: Free transfer | Pos: DM | Age: 22 | Nat: France
+  - Lawrence Vigouroux signed from Leyton Orient (League One) | Fee: Free transfer | Pos: GK | Age: 29 | Nat: Chile
+  - Mike Trésor signed from KRC Genk (Jupiler Pro League) | Fee: loan transfer | Pos: LW | Age: 24 | Nat: Belgium
+  - Jacob Bruun Larsen signed from TSG 1899 Hoffenheim (Bundesliga) | Fee: loan transfer | Pos: LW | Age: 24 | Nat: Denmark
+  - Wout Weghorst signed from Manchester United (Premier League) | Fee: Loan | Pos: CF | Age: 30 | Nat: Netherlands
+  - Scott Twine signed from Hull City (Championship) | Fee: Loan | Pos: AM | Age: 24 | Nat: England
+  - Luke McNally signed from Stoke City (Championship) | Fee: Loan | Pos: DC | Age: 24 | Nat: Ireland
+  - Enock Agyei signed from KV Mechelen (Jupiler Pro League) | Fee: Loan | Pos: RW | Age: 18 | Nat: Belgium
+  - Dara Costelloe signed from St. Johnstone FC (Premiership) | Fee: Loan | Pos: LW | Age: 21 | Nat: Ireland
+
+## Players Sold / Departed — 11 transfers
+  - Bobby Thomas sold/moved to Coventry City (Championship) | Fee: £2,024,000 | Pos: DC | Age: 22 | Nat: England
+  - Wout Weghorst sold/moved to TSG 1899 Hoffenheim (Bundesliga) | Fee: Loan with fee | Pos: CF | Age: 31 | Nat: Netherlands
+  - Ashley Barnes sold/moved to Norwich City (Championship) | Fee: Free transfer | Pos: CF | Age: 33 | Nat: England
+  - Will Norris sold/moved to Portsmouth FC (League One) | Fee: Free transfer | Pos: GK | Age: 29 | Nat: England
+  - Samuel Bastien sold/moved to Kasimpasa (Süper Lig) | Fee: Unknown | Pos: MC | Age: 26 | Nat: DR Congo
+  - Scott Twine sold/moved to Hull City (Championship) | Fee: loan transfer | Pos: AM | Age: 24 | Nat: England
+  - Luke McNally sold/moved to Stoke City (Championship) | Fee: loan transfer | Pos: DC | Age: 23 | Nat: Ireland
+  - Bailey Peacock-Farrell sold/moved to Aarhus GF (Superligaen) | Fee: loan transfer | Pos: GK | Age: 26 | Nat: Northern Ireland
+  - Dara Costelloe sold/moved to St. Johnstone FC (Premiership) | Fee: loan transfer | Pos: LW | Age: 20 | Nat: Ireland
+  - Matthew Lowton sold/moved to No team (No team) | Fee: Free transfer | Pos: DR | Age: 34 | Nat: England
+  - Jordan Beyer sold/moved to Borussia Mönchengladbach (Bundesliga) | Fee: Loan | Pos: DC | Age: 23 | Nat: Germany
