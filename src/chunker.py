@@ -1,22 +1,17 @@
-"""
-STEP 1: CHUNKING RAW DATA
-"""
 import json
 import math
 import pandas as pd
 from datetime import datetime, timezone
 from pathlib import Path
 
-# Helpers
-
 def _fmt(val):
-    """Return a clean string for a possibly-NaN numeric or string value."""
+    """Chuyển giá trị rỗng/NaN thành chuỗi 'N/A'."""
     if val is None or (isinstance(val, float) and math.isnan(val)):
         return "N/A"
     return str(val)
 
-
 def _normalize_id(value: str) -> str:
+    """Chuẩn hóa tên thành id ngắn, loại bỏ dấu, viết thường, thay space bằng gạch dưới."""
     return (
         _fmt(value)
         .strip()
@@ -29,8 +24,8 @@ def _normalize_id(value: str) -> str:
         .replace('"', "")
     )
 
-
 def _row_text(prefix: str, row: pd.Series) -> str:
+    """Biến một dòng CSV thành text nhiều dòng để đưa vào chunk."""
     lines = [f"# {prefix}"]
     for key, val in row.items():
         lines.append(f"  {key}: {_fmt(val)}")
@@ -38,6 +33,7 @@ def _row_text(prefix: str, row: pd.Series) -> str:
 
 
 def _load_csv_row_chunks(path: Path, source_name: str, pos_filter=None) -> list[dict]:
+    """Đọc một CSV bất kỳ và tạo chunk theo từng dòng, có thể lọc theo vị trí."""
     if not path.exists():
         return []
     df = pd.read_csv(path)
@@ -61,6 +57,7 @@ def _load_csv_row_chunks(path: Path, source_name: str, pos_filter=None) -> list[
 
 
 def _load_transfer_chunks_from_csv(path: Path, direction: str) -> list[dict]:
+    """Tạo chunk chuyển nhượng từ file arrivals/departures CSV."""
     if not path.exists():
         return []
     df = pd.read_csv(path)
@@ -91,10 +88,12 @@ def _load_transfer_chunks_from_csv(path: Path, direction: str) -> list[dict]:
 
 
 def _now_ts() -> str:
+    """Trả về timestamp UTC dạng ISO để gắn vào chunk mới tạo."""
     return datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
 
 
 def _format_league_season(league: str, season: str) -> str:
+    """Chuẩn hóa tên giải và mùa giải"""
     league = _fmt(league).replace("ENG-", "").strip()
     season = _fmt(season)
     if season == "2324":
@@ -103,10 +102,12 @@ def _format_league_season(league: str, season: str) -> str:
 
 
 def _safe_field(row: dict, key: str) -> str:
+    """Lấy field từ dict và chuẩn hóa giá trị rỗng bằng _fmt."""
     return _fmt(row.get(key, "N/A"))
 
 
 def _build_player_metadata(row: dict) -> dict:
+    """Tạo metadata chuẩn cho một cầu thủ từ dòng dữ liệu raw."""
     return {
         "player_name": _safe_field(row, "player"),
         "team": _safe_field(row, "team"),
@@ -118,6 +119,7 @@ def _build_player_metadata(row: dict) -> dict:
 
 
 def _build_player_semantic_content(row: dict) -> str:
+    """Tạo đoạn mô tả tự nhiên về cầu thủ để phục vụ semantic retrieval."""
     player = _safe_field(row, "player")
     team = _safe_field(row, "team")
     pos = _safe_field(row, "pos")
@@ -138,6 +140,7 @@ def _build_player_semantic_content(row: dict) -> str:
 
 
 def _build_player_structured_content(row: dict) -> str:
+    """Tạo chunk dạng cấu trúc/markdown chứa thống kê chi tiết của cầu thủ."""
     league_season = _format_league_season(row.get("league", "Premier League"), row.get("season", "2324"))
     lines = [f"# {_safe_field(row, 'player')}", "", f"## Chi tiết Thống kê (Season {league_season}):"]
     sections = [
@@ -205,6 +208,7 @@ def _build_player_structured_content(row: dict) -> str:
 
 
 def _build_player_chunks(raw_dir: Path) -> list[dict]:
+    """Gộp nhiều bảng player stats và tạo semantic + structured chunk cho từng cầu thủ."""
     files = [
         raw_dir / "standard_stats.csv",
         raw_dir / "playing_time_stats.csv",
@@ -247,6 +251,7 @@ def _build_player_chunks(raw_dir: Path) -> list[dict]:
 
 
 def _build_team_metadata(row: dict) -> dict:
+    """Tạo metadata chuẩn cho đội bóng."""
     return {
         "team_name": _safe_field(row, "team"),
         "league_season": _format_league_season(row.get("league", "Premier League"), row.get("season", "2324")),
@@ -259,6 +264,7 @@ def _build_team_metadata(row: dict) -> dict:
 
 
 def _build_team_semantic_content(row: dict) -> str:
+    """Tạo đoạn mô tả tự nhiên về thống kê tổng hợp của đội bóng."""
     team = _safe_field(row, "team")
     league_season = _format_league_season(row.get("league", "Premier League"), row.get("season", "2324"))
     return (
@@ -268,6 +274,7 @@ def _build_team_semantic_content(row: dict) -> str:
 
 
 def _build_team_structured_content(row: dict) -> str:
+    """Tạo chunk markdown chứa thống kê đội bóng chi tiết."""
     lines = [f"# {_safe_field(row, 'team')}", "", "## Team Aggregate Stats (2023-24 Premier League):", ""]
     lines.append(f"- Players used: {_safe_field(row, 'players_used')}")
     lines.append(f"- Avg age: {_safe_field(row, 'Age')}")
@@ -287,6 +294,7 @@ def _build_team_structured_content(row: dict) -> str:
 
 
 def _build_team_chunks(raw_dir: Path) -> list[dict]:
+    """Tạo chunk cho từng đội."""
     ts = pd.read_csv(raw_dir / "team_stats.csv")
     sh = pd.read_csv(raw_dir / "team_shooting_stats.csv")
     mis = pd.read_csv(raw_dir / "team_misc_stats.csv")
@@ -320,6 +328,7 @@ def _build_team_chunks(raw_dir: Path) -> list[dict]:
 
 
 def _build_club_metadata_chunks(raw_dir: Path) -> list[dict]:
+    """Tạo chunk metadata CLB."""
     meta_path = raw_dir / "metadata_clubs.json"
     if not meta_path.exists():
         return []
@@ -366,6 +375,7 @@ def _build_club_metadata_chunks(raw_dir: Path) -> list[dict]:
 
 
 def _build_match_metadata(row: dict) -> dict:
+    """Tạo metadata chuẩn cho một trận đấu."""
     return {
         "home_team": _safe_field(row, "home_team"),
         "away_team": _safe_field(row, "away_team"),
@@ -377,6 +387,7 @@ def _build_match_metadata(row: dict) -> dict:
 
 
 def _build_match_semantic_content(row: dict) -> str:
+    """Tạo câu mô tả tự nhiên cho một trận đấu và tỉ số cuối cùng."""
     home = _safe_field(row, "home_team")
     away = _safe_field(row, "away_team")
     score = _safe_field(row, "score")
@@ -386,11 +397,13 @@ def _build_match_semantic_content(row: dict) -> str:
 
 
 def _build_match_structured_content(row: dict) -> str:
+    """Tạo chunk markdown chứa thông tin trận đấu theo từng field."""
     lines = ["# Match Details", "", f"- Date: {_safe_field(row, 'date')}", f"- Home team: {_safe_field(row, 'home_team')}", f"- Away team: {_safe_field(row, 'away_team')}", f"- Venue: {_safe_field(row, 'venue')}", f"- Score: {_safe_field(row, 'score')}"]
     return "\n".join(lines)
 
 
 def _build_match_chunks(raw_dir: Path) -> list[dict]:
+    """Tạo semantic + structured chunk cho từng trận."""
     df = pd.read_csv(raw_dir / "schedule.csv")
     chunks = []
     for idx, row in df.iterrows():
@@ -417,9 +430,9 @@ def _build_match_chunks(raw_dir: Path) -> list[dict]:
         })
     return chunks
 
-# 1. Transfer corpus
 
 def load_transfer_chunks(corpus_path: Path, transfers_dir: Path = None) -> list[dict]:
+    """Đọc transfer chunks; nếu thiếu thì fallback sang CSV."""
     chunks = []
     if corpus_path.exists() and corpus_path.stat().st_size > 0:
         with open(corpus_path, encoding="utf-8") as fh:
@@ -448,6 +461,7 @@ def load_transfer_chunks(corpus_path: Path, transfers_dir: Path = None) -> list[
 
 
 def load_player_detail_chunks(raw_dir: Path, exclude_gk: bool = False) -> list[dict]:
+    """Tạo chunk chi tiết từng dòng cho cầu thủ."""
     files = [
         raw_dir / "standard_stats.csv",
         raw_dir / "playing_time_stats.csv",
@@ -472,6 +486,7 @@ def load_player_detail_chunks(raw_dir: Path, exclude_gk: bool = False) -> list[d
 
 
 def load_keeper_detail_chunks(raw_dir: Path) -> list[dict]:
+    """Tạo chunk chi tiết riêng cho thủ môn từ các bảng thống kê raw."""
     files = [
         raw_dir / "keeper_stats.csv",
         raw_dir / "misc_stats.csv",
@@ -488,10 +503,10 @@ def load_keeper_detail_chunks(raw_dir: Path) -> list[dict]:
             lambda pos: str(pos).strip().upper() == "GK",
         )
     ]
-
-# 2. Player stats
+    
 
 def load_player_stat_chunks(stats_path: Path) -> list[dict]:
+    """Tạo chunk tổng hợp player stats theo từng đội."""
     df = pd.read_csv(stats_path)
     chunks = []
 
@@ -517,72 +532,9 @@ def load_player_stat_chunks(stats_path: Path) -> list[dict]:
         })
     return chunks
 
-# 3. Team stats
-
-def load_team_stat_chunks(
-    team_stats_path: Path,
-    shooting_path: Path,
-    misc_path: Path,
-) -> list[dict]:
-    ts  = pd.read_csv(team_stats_path).set_index("team")
-    sh  = pd.read_csv(shooting_path).set_index("team")
-    mis = pd.read_csv(misc_path).set_index("team")
-
-    chunks = []
-    for team in ts.index:
-        r   = ts.loc[team]
-        sr  = sh.loc[team]   if team in sh.index   else {}
-        mr  = mis.loc[team]  if team in mis.index  else {}
-
-        text = (
-            f"# {team} — Team Aggregate Stats (2023-24 Premier League)\n"
-            f"  Players used: {_fmt(r.get('players_used'))} | "
-            f"Avg age: {_fmt(r.get('Age'))} | Possession: {_fmt(r.get('Poss'))}%\n"
-            f"  Goals scored: {_fmt(r.get('Performance_Gls'))} | "
-            f"Assists: {_fmt(r.get('Performance_Ast'))} | "
-            f"Goals conceded (from schedule data)\n"
-            f"  Shots: {_fmt(sr.get('Standard_Sh') if hasattr(sr, 'get') else 'N/A')} | "
-            f"Shots on target: {_fmt(sr.get('Standard_SoT') if hasattr(sr, 'get') else 'N/A')} | "
-            f"Shot accuracy: {_fmt(sr.get('Standard_SoT%') if hasattr(sr, 'get') else 'N/A')}%\n"
-            f"  Yellow cards: {_fmt(r.get('Performance_CrdY'))} | "
-            f"Red cards: {_fmt(r.get('Performance_CrdR'))}\n"
-            f"  Fouls committed: {_fmt(mr.get('Performance_Fls') if hasattr(mr, 'get') else 'N/A')} | "
-            f"Fouls drawn: {_fmt(mr.get('Performance_Fld') if hasattr(mr, 'get') else 'N/A')} | "
-            f"Offsides: {_fmt(mr.get('Performance_Off') if hasattr(mr, 'get') else 'N/A')}"
-        )
-        chunks.append({
-            "id":       f"team_stats_{team.lower().replace(' ', '_')}",
-            "text":     text,
-            "source":   "team_stats",
-            "team":     team,
-            "metadata": {"season": "2023-24"},
-        })
-    return chunks
-
-# 4. Standings  (single chunk)
-
-# def load_standings_chunk(standings_path: Path) -> list[dict]:
-#     df = pd.read_csv(standings_path)
-#     lines = ["# 2023-24 Premier League Final Standings\n",
-#              "Rank | Team | P | W | D | L | GF | GA | GD | Pts"]
-#     for _, row in df.iterrows():
-#         lines.append(
-#             f"{_fmt(row['Rank'])} | {row['Team']} | {_fmt(row['P'])} | "
-#             f"{_fmt(row['W'])} | {_fmt(row['D'])} | {_fmt(row['L'])} | "
-#             f"{_fmt(row['GF'])} | {_fmt(row['GA'])} | {_fmt(row['GD'])} | "
-#             f"{_fmt(row['Pts'])}"
-#         )
-#     return [{
-#         "id":       "standings_2023_24",
-#         "text":     "\n".join(lines),
-#         "source":   "standings",
-#         "team":     None,
-#         "metadata": {"season": "2023-24"},
-#     }]
-    
-# 5. Schedule / results  (one chunk per team – home & away results)
 
 def load_schedule_chunks(schedule_path: Path) -> list[dict]:
+    """Tạo chunk lịch/kết quả theo từng đội."""
     df = pd.read_csv(schedule_path)
     # Keep only played matches (score is not NaN)
     played = df[df["score"].notna()].copy()
@@ -611,51 +563,9 @@ def load_schedule_chunks(schedule_path: Path) -> list[dict]:
         })
     return chunks
 
-# 6. Club metadata 
-
-def load_club_metadata_chunks(meta_path: Path) -> list[dict]:
-    with open(meta_path, encoding="utf-8") as fh:
-        clubs = json.load(fh)
-    chunks = []
-    for club in clubs:
-        name = club["club"]
-        text = (
-            f"# {name} — Club Profile\n"
-            f"  Season: {club.get('season')} | "
-            f"Final position: {club.get('final_position_2023_24')}/20\n"
-            f"  Manager: {club.get('manager')} | "
-            f"Founded: {club.get('founded')} | "
-            f"Nickname: {club.get('nickname')}\n"
-            f"  Stadium: {club.get('stadium')} | "
-            f"Capacity: {club.get('capacity')} | "
-            f"City: {club.get('city')}\n"
-            f"  Chairman: {club.get('chairman')}"
-        )
-        chunks.append({
-            "id":       f"club_meta_{name.lower().replace(' ', '_')}",
-            "text":     text,
-            "source":   "club_metadata",
-            "team":     name,
-            "metadata": {k: v for k, v in club.items() if k != "league"},
-        })
-    return chunks
-
-
-# ---------------------------------------------------------------------------
-# Master loader
-# ---------------------------------------------------------------------------
-
-def groupby_source(chunks: list[dict]) -> dict[str, list[dict]]:
-    """Group chunks by their source."""
-    grouped = {}
-    for chunk in chunks:
-        source = chunk["source"]
-        if source not in grouped:
-            grouped[source] = []
-        grouped[source].append(chunk)
-    return grouped
 
 def _write_jsonl(path: Path, chunks: list[dict]) -> None:
+    """Ghi danh sách chunk ra file JSONL, mỗi dòng là một JSON object."""
     path.parent.mkdir(parents=True, exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
         for chunk in chunks:
@@ -664,10 +574,7 @@ def _write_jsonl(path: Path, chunks: list[dict]) -> None:
 
 
 def load_all_chunks(raw_dir: str | Path = None) -> list[dict]:
-    """
-    Load and combine chunks from every data source.
-    Returns a deduplicated list sorted by source.
-    """
+    """Load toàn bộ dữ liệu raw, tạo các nhóm chunk chính."""
     if raw_dir is None:
         raw_dir = Path(__file__).parent.parent / "data" / "raw"
     raw = Path(raw_dir)
@@ -719,11 +626,3 @@ def load_all_chunks(raw_dir: str | Path = None) -> list[dict]:
 
 if __name__ == "__main__":
     chunks = load_all_chunks()
-    # Preview a chunk from each source
-    seen = set()
-    for c in chunks:
-        if c["source"] not in seen:
-            seen.add(c["source"])
-            print(f"\n{'='*60}")
-            print(f"SOURCE: {c['source']}  |  ID: {c['id']}")
-            print(c["text"][:400])

@@ -1,20 +1,11 @@
-"""
-STEP 2 — NORMALIZE + EMBED + INDEX
-====================================
-Input : 5 JSONL files từ bước chunking
-Output:
-  data/chunks/corpus_unified.jsonl   ← tất cả chunks với schema thống nhất
-  data/index/faiss_index.bin         ← FAISS dense index
-  data/index/id_map.json             ← chunk_id → text/metadata
-  data/index/bm25_corpus.pkl         ← BM25 tokenized corpus
-"""
-
 import json, os, re, pickle, time
 from pathlib import Path
+import faiss
 import numpy as np
 
-CHUNKS_DIR  = "./data/chunks"
-INDEX_DIR   = "./data/index"
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+CHUNKS_DIR = PROJECT_ROOT / "data" / "chunks"
+INDEX_DIR = PROJECT_ROOT / "data" / "index"
 os.makedirs(INDEX_DIR, exist_ok=True)
 
 CHUNK_FILES = [
@@ -28,10 +19,6 @@ CHUNK_FILES = [
 EMBED_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 BATCH_SIZE  = 128
 
-
-# ─────────────────────────────────────────
-#  NORMALIZE — thống nhất về {id, text, metadata, source_type}
-# ─────────────────────────────────────────
 
 def normalize_record(raw: dict, source_type: str, global_idx: int) -> dict:
     """Chuẩn hoá 2 schema khác nhau về 1 format duy nhất."""
@@ -68,11 +55,12 @@ def normalize_record(raw: dict, source_type: str, global_idx: int) -> dict:
 
 
 def load_and_normalize() -> list[dict]:
+    """Đọc toàn bộ file chunk JSONL và chuẩn hóa thành một corpus chung."""
     corpus = []
     print("Loading & normalizing chunks:\n")
     for filename, source_type in CHUNK_FILES:
-        path = os.path.join(CHUNKS_DIR, filename)
-        if not os.path.exists(path):
+        path = CHUNKS_DIR / filename
+        if not path.exists():
             print(f"  [SKIP] {filename} not found")
             continue
 
@@ -95,11 +83,8 @@ def load_and_normalize() -> list[dict]:
     return corpus
 
 
-# ─────────────────────────────────────────
-#  EMBED — sentence-transformers MiniLM
-# ─────────────────────────────────────────
-
 def build_embeddings(corpus: list[dict]) -> np.ndarray:
+    """Tạo vector embedding cho toàn bộ text chunk bằng SentenceTransformer."""
     from sentence_transformers import SentenceTransformer
     print(f"\nLoading embedding model: {EMBED_MODEL}")
     model = SentenceTransformer(EMBED_MODEL)
@@ -113,29 +98,21 @@ def build_embeddings(corpus: list[dict]) -> np.ndarray:
         batch_size=BATCH_SIZE,
         show_progress_bar=True,
         convert_to_numpy=True,
-        normalize_embeddings=True,   # cosine = dot product after L2 norm
+        normalize_embeddings=True,
     ).astype("float32")
 
-    print(f"Done in {time.time()-t0:.1f}s  shape={embeddings.shape}")
     return embeddings
 
 
-# ─────────────────────────────────────────
-#  FAISS INDEX
-# ─────────────────────────────────────────
-
 def build_faiss(embeddings: np.ndarray) -> "faiss.Index":
+    """Tạo FAISS index dùng inner product trên vector đã normalize."""
     import faiss
     dim   = embeddings.shape[1]
-    index = faiss.IndexFlatIP(dim)     # Inner Product = cosine (vectors are L2-normalised)
+    index = faiss.IndexFlatIP(dim) 
     index.add(embeddings)
-    print(f"FAISS index built: {index.ntotal} vectors, dim={dim}")
+    # print(f"FAISS index built: {index.ntotal} vectors, dim={dim}")
     return index
 
-
-# ─────────────────────────────────────────
-#  BM25 INDEX
-# ─────────────────────────────────────────
 
 STOPWORDS = {
     "the","a","an","in","of","to","for","and","or","is","was",
@@ -144,49 +121,47 @@ STOPWORDS = {
 }
 
 def tokenize(text: str) -> list[str]:
+    """Tokenize text cho BM25: lowercase, bỏ stopword và token quá ngắn."""
     tokens = re.findall(r"\b[a-zA-Z0-9']+\b", text.lower())
     return [t for t in tokens if t not in STOPWORDS and len(t) > 1]
 
 
 def build_bm25(corpus: list[dict]):
+    """Tạo BM25 sparse index từ corpus đã tokenize."""
     from rank_bm25 import BM25Okapi
     print("Building BM25 index...")
     tokenized = [tokenize(c["text"]) for c in corpus]
     bm25 = BM25Okapi(tokenized)
-    print(f"BM25 index built: {len(tokenized)} documents")
     return bm25, tokenized
 
 
-# ─────────────────────────────────────────
-#  MAIN
-# ─────────────────────────────────────────
-
 def main():
-    print("=" * 58)
-    print("  STEP 2: NORMALIZE + EMBED + INDEX")
-    print("=" * 58)
+    """Chạy toàn bộ bước normalize, embedding, FAISS index và BM25 index."""
 
-    # ── 1. Normalize
+    # Normalize
     corpus = load_and_normalize()
     print(f"\nTotal corpus: {len(corpus)} chunks")
+    if not corpus:
+        raise FileNotFoundError(
+            f"No chunks found in {CHUNKS_DIR}. Run chunker first: python src/chunker.py"
+        )
 
-    # Save unified corpus
-    corpus_path = os.path.join(CHUNKS_DIR, "corpus_unified.jsonl")
+    # Lưu corpus đã chuẩn hoá
+    corpus_path = CHUNKS_DIR / "corpus_unified.jsonl"
+    CHUNKS_DIR.mkdir(parents=True, exist_ok=True)
     with open(corpus_path, "w", encoding="utf-8") as f:
         for rec in corpus:
             f.write(json.dumps(rec, ensure_ascii=False) + "\n")
     print(f"Saved: {corpus_path}")
 
-    # ── 2. Embed
+    # Embedding
     embeddings = build_embeddings(corpus)
 
-    # ── 3. FAISS
+    # FAISS
     faiss_index = build_faiss(embeddings)
-    import faiss
-    faiss.write_index(faiss_index, os.path.join(INDEX_DIR, "faiss_index.bin"))
-    print(f"Saved: {INDEX_DIR}/faiss_index.bin")
+    faiss.write_index(faiss_index, str(INDEX_DIR / "faiss_index.bin"))
 
-    # ── 4. ID map (global_idx → id + text + metadata) for lookup after retrieval
+    # ID map để tra cứu metadata khi biết id của chunk
     id_map = {
         c["global_idx"]: {
             "id":          c["id"],
@@ -196,38 +171,20 @@ def main():
         }
         for c in corpus
     }
-    with open(os.path.join(INDEX_DIR, "id_map.json"), "w", encoding="utf-8") as f:
+    with open(INDEX_DIR / "id_map.json", "w", encoding="utf-8") as f:
         json.dump(id_map, f, ensure_ascii=False)
-    print(f"Saved: {INDEX_DIR}/id_map.json")
 
-    # ── 5. BM25
+    # BM25 sparse index để truy vấn theo keyword (không dùng embedding)
     bm25, tokenized_corpus = build_bm25(corpus)
-    with open(os.path.join(INDEX_DIR, "bm25_corpus.pkl"), "wb") as f:
+    with open(INDEX_DIR / "bm25_corpus.pkl", "wb") as f:
         pickle.dump({"bm25": bm25, "tokenized": tokenized_corpus}, f)
-    print(f"Saved: {INDEX_DIR}/bm25_corpus.pkl")
 
-    # ── Summary by source type
-    by_src = {}
-    for c in corpus:
-        by_src.setdefault(c["source_type"], 0)
-        by_src[c["source_type"]] += 1
-
-    print(f"\n{'─'*45}")
-    print(f"  {'Source type':<25} {'Chunks':>8}")
-    print(f"{'─'*45}")
-    for src, cnt in sorted(by_src.items(), key=lambda x: -x[1]):
-        print(f"  {src:<25} {cnt:>8}")
-    print(f"{'─'*45}")
-    print(f"  {'TOTAL':<25} {len(corpus):>8}")
     print(f"""
-{'='*58}
-  INDEXING COMPLETE ✓
-  corpus_unified.jsonl  {len(corpus)} chunks
-  faiss_index.bin       {len(corpus)} vectors (dim=384)
-  bm25_corpus.pkl       {len(corpus)} documents
-  id_map.json           {len(corpus)} entries
-{'='*58}
-→ Next: python src/03_generate_qa.py
+    INDEXING COMPLETE ✓
+    corpus_unified.jsonl  {len(corpus)} chunks
+    faiss_index.bin       {len(corpus)} vectors (dim=384)
+    bm25_corpus.pkl       {len(corpus)} documents
+    id_map.json           {len(corpus)} entries
 """)
 
 if __name__ == "__main__":
