@@ -1,0 +1,125 @@
+{
+  "instructions": "Two annotators answer each question independently. This subset comes from the entity-level test split.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is Luke Berry's nationality?",
+      "type": "player_nationality",
+      "source_entity_id": "player_luke_berry"
+    },
+    {
+      "id": 2,
+      "question": "Based on the score 2–2, what was the outcome of Burnley vs Fulham on 2024-02-03?",
+      "type": "match_outcome_from_score",
+      "source_entity_id": "match_219"
+    },
+    {
+      "id": 3,
+      "question": "How many goals did Saman Ghoddos score for Brentford in 2023-24?",
+      "type": "player_goals",
+      "source_entity_id": "player_saman_ghoddos"
+    },
+    {
+      "id": 4,
+      "question": "What position does Jean-Ricner Bellegarde play?",
+      "type": "player_position",
+      "source_entity_id": "transfer_arrivals_jean-ricner_bellegarde"
+    },
+    {
+      "id": 5,
+      "question": "Did Arsenal beat Newcastle United on 2024-02-24?",
+      "type": "match_result_yn",
+      "source_entity_id": "match_250"
+    },
+    {
+      "id": 6,
+      "question": "Between Manchester City and Tottenham Hotspur, which team scored more goals in the 2023-24 Premier League?",
+      "type": "comparative_team_goals",
+      "source_entity_id": "comparison_team:team_manchester_city:team_tottenham_hotspur"
+    },
+    {
+      "id": 7,
+      "question": "Between Brighton and Manchester Utd, which team scored more goals in the 2023-24 Premier League?",
+      "type": "comparative_team_goals",
+      "source_entity_id": "comparison_team:team_brighton:team_manchester_utd"
+    },
+    {
+      "id": 8,
+      "question": "Between Pelly Ruddock Mpanzu and Bruno Guimarães, who played more minutes in the 2023-24 Premier League?",
+      "type": "comparative_player_minutes",
+      "source_entity_id": "comparison_player:player_pelly_ruddock_mpanzu:player_bruno_guimarães"
+    },
+    {
+      "id": 9,
+      "question": "Who won the match between Tottenham Hotspur and West Ham United on 2023-12-07?",
+      "type": "match_winner",
+      "source_entity_id": "match_149"
+    },
+    {
+      "id": 10,
+      "question": "Did Aston Villa beat West Ham United on 2023-10-22?",
+      "type": "match_result_yn",
+      "source_entity_id": "match_88"
+    },
+    {
+      "id": 11,
+      "question": "What was the goal difference in the match between Luton Town and Nottingham Forest on 2024-03-16?",
+      "type": "match_goal_difference",
+      "source_entity_id": "match_281"
+    },
+    {
+      "id": 12,
+      "question": "Where did Jack Walton move after leaving Luton Town?",
+      "type": "transfer_dest",
+      "source_entity_id": "transfer_departures_jack_walton"
+    },
+    {
+      "id": 13,
+      "question": "How many total goals were scored when Crystal Palace played Sheffield United on 2024-01-30?",
+      "type": "match_total_goals",
+      "source_entity_id": "match_209"
+    },
+    {
+      "id": 14,
+      "question": "Between Aston Villa and Newcastle United, which team had higher possession in the 2023-24 Premier League?",
+      "type": "comparative_team_possession",
+      "source_entity_id": "comparison_team:team_aston_villa:team_newcastle_united"
+    },
+    {
+      "id": 15,
+      "question": "Which club did Luis Sinisterra join Bournemouth from?",
+      "type": "transfer_origin",
+      "source_entity_id": "transfer_arrivals_luis_sinisterra"
+    },
+    {
+      "id": 16,
+      "question": "Between Nottingham Forest and Tottenham Hotspur, which team scored more goals in the 2023-24 Premier League?",
+      "type": "comparative_team_goals",
+      "source_entity_id": "comparison_team:team_nottingham_forest:team_tottenham_hotspur"
+    },
+    {
+      "id": 17,
+      "question": "How many goals did Pablo Sarabia score for Wolves in 2023-24?",
+      "type": "player_goals",
+      "source_entity_id": "player_pablo_sarabia"
+    },
+    {
+      "id": 18,
+      "question": "What position does Romelu Lukaku play?",
+      "type": "player_position",
+      "source_entity_id": "transfer_arrivals_romelu_lukaku"
+    },
+    {
+      "id": 19,
+      "question": "How many total goals were scored when Fulham played Wolves on 2023-11-27?",
+      "type": "match_total_goals",
+      "source_entity_id": "match_129"
+    },
+    {
+      "id": 20,
+      "question": "Which club did Sander Berge join after Sheffield United?",
+      "type": "transfer_dest",
+      "source_entity_id": "transfer_departures_sander_berge"
+    }
+  ]
+}

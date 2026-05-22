@@ -1,0 +1,305 @@
+season,Player Name,direction,club,League,Transfer Fee,To,Nationality,Age,Position
+2023-24,Cole Palmer,departures,Manchester City,Premier League,"£41,360,000",Chelsea FC,England,21,RW
+2023-24,Riyad Mahrez,departures,Manchester City,Saudi Pro League,"£30,800,000",Al-Ahli SFC,Algeria,32,RW
+2023-24,Aymeric Laporte,departures,Manchester City,Saudi Pro League,"£24,200,000",Al-Nassr FC,Spain,29,DC
+2023-24,Yangel Herrera,departures,Manchester City,LaLiga,"£4,400,000",Girona FC,Venezuela,25,MC
+2023-24,Ilkay Gündogan,departures,Manchester City,LaLiga,Free transfer,FC Barcelona,Germany,32,MC
+2023-24,Nahuel Bustos,departures,Manchester City,Liga Profesional,Free transfer,Club Atlético Talleres,Argentina,24,CF
+2023-24,Benjamin Mendy,departures,Manchester City,Ligue 1,Free transfer,FC Lorient,France,29,DL
+2023-24,João Cancelo,departures,Manchester City,LaLiga,loan transfer,FC Barcelona,Portugal,29,DR
+2023-24,Taylor Harwood-Bellis,departures,Manchester City,Championship,loan transfer,Southampton FC,England,21,DC
+2023-24,James McAtee,departures,Manchester City,Premier League,loan transfer,Sheffield United,England,20,MC
+2023-24,Máximo Perrone,departures,Manchester City,LaLiga,loan transfer,UD Las Palmas,Argentina,20,DM
+2023-24,Issa Kaboré,departures,Manchester City,Premier League,loan transfer,Luton Town,Burkina Faso,22,DR
+2023-24,Tommy Doyle,departures,Manchester City,Premier League,loan transfer,Wolverhampton Wanderers,England,21,MC
+2023-24,Josh Wilson-Esbrand,departures,Manchester City,Ligue 1,loan transfer,Stade Reims,England,20,DL
+2023-24,Slobodan Tedic,departures,Manchester City,League One,loan transfer,Charlton Athletic,Serbia,23,CF
+2023-24,Folarin Balogun,departures,Arsenal,Ligue 1,"£26,400,000",AS Monaco,United States,22,CF
+2023-24,Granit Xhaka,departures,Arsenal,Bundesliga,"£13,200,000",Bayer 04 Leverkusen,Switzerland,30,DM
+2023-24,Matt Turner,departures,Arsenal,Premier League,"£7,172,000",Nottingham Forest,United States,29,GK
+2023-24,Auston Trusty,departures,Arsenal,Premier League,"£5,104,000",Sheffield United,United States,24,DC
+2023-24,Pablo Marí,departures,Arsenal,Serie A,"£4,312,000",AC Monza,Spain,29,DC
+2023-24,Kieran Tierney,departures,Arsenal,LaLiga,Loan with fee,Real Sociedad,Scotland,26,DL
+2023-24,Rob Holding,departures,Arsenal,Premier League,"£1,056,000",Crystal Palace,England,27,DC
+2023-24,Nuno Tavares,departures,Arsenal,Premier League,Loan with fee,Nottingham Forest,Portugal,23,DL
+2023-24,Marquinhos,departures,Arsenal,Ligue 1,Loan with fee,FC Nantes,Brazil,20,RW
+2023-24,Nicolas Pépé,departures,Arsenal,Süper Lig,Free transfer,Trabzonspor,Cote d'Ivoire,28,RW
+2023-24,Ainsley Maitland-Niles,departures,Arsenal,Ligue 1,Free transfer,Olympique Lyon,England,25,MC
+2023-24,Albert Sambi Lokonga,departures,Arsenal,Premier League,loan transfer,Luton Town,Belgium,23,MC
+2023-24,Arthur Okonkwo,departures,Arsenal,League Two,loan transfer,Wrexham AFC,England,21,GK
+2023-24,Rúnar Alex Rúnarsson,departures,Arsenal,Championship,loan transfer,Cardiff City,Iceland,28,GK
+2023-24,Fabinho,departures,Liverpool,Saudi Pro League,"£41,096,000",Al-Ittihad Club,Brazil,29,DM
+2023-24,Jordan Henderson,departures,Liverpool,Saudi Pro League,"£12,320,000",Al-Ettifaq FC,England,33,MC
+2023-24,Roberto Firmino,departures,Liverpool,Saudi Pro League,Free transfer,Al-Ahli SFC,Brazil,31,CF
+2023-24,Naby Keïta,departures,Liverpool,Bundesliga,Free transfer,SV Werder Bremen,Guinea,28,MC
+2023-24,Alex Oxlade-Chamberlain,departures,Liverpool,Süper Lig,Free transfer,Besiktas JK,England,29,MC
+2023-24,James Milner,departures,Liverpool,Premier League,Free transfer,Brighton & Hove Albion,England,37,MC
+2023-24,Fábio Carvalho,departures,Liverpool,Bundesliga,loan transfer,RB Leipzig,Portugal,20,AM
+2023-24,Sepp van den Berg,departures,Liverpool,Bundesliga,loan transfer,1.FSV Mainz 05,Netherlands,21,DC
+2023-24,Calvin Ramsay,departures,Liverpool,Championship,loan transfer,Preston North End,Scotland,19,DR
+2023-24,Nathaniel Phillips,departures,Liverpool,Premiership,loan transfer,Celtic FC,England,26,DC
+2023-24,Rhys Williams,departures,Liverpool,Premiership,loan transfer,Aberdeen FC,England,22,DC
+2023-24,Arthur Melo,departures,Liverpool,Serie A,Loan,Juventus FC,Brazil,26,MC
+2023-24,Cameron Archer,departures,Aston Villa,Premier League,"£18,964,000",Sheffield United,England,21,CF
+2023-24,Jaden Philogene,departures,Aston Villa,Championship,"£5,104,000",Hull City,England,21,LW
+2023-24,Marvelous Nakamba,departures,Aston Villa,Premier League,"£2,552,000",Luton Town,Zimbabwe,29,DM
+2023-24,Keinan Davis,departures,Aston Villa,Serie A,"£2,024,000",Udinese Calcio,England,25,CF
+2023-24,Ashley Young,departures,Aston Villa,Premier League,Free transfer,Everton FC,England,38,DL
+2023-24,Wesley Moraes,departures,Aston Villa,Championship,Unknown,Stoke City,Brazil,26,CF
+2023-24,Philippe Coutinho,departures,Aston Villa,Stars League,loan transfer,Al-Duhail SC,Brazil,31,LW
+2023-24,Morgan Sanson,departures,Aston Villa,Ligue 1,loan transfer,OGC Nice,France,28,MC
+2023-24,Viljami Sinisalo,departures,Aston Villa,League One,loan transfer,Exeter City,Finland,21,GK
+2023-24,Jed Steer,departures,Aston Villa,No team,Free transfer,No team,England,30,GK
+2023-24,Harry Kane,departures,Tottenham Hotspur,Bundesliga,"£88,000,000",Bayern Munich,England,30,CF
+2023-24,Harry Winks,departures,Tottenham Hotspur,Championship,"£10,208,000",Leicester City,England,27,DM
+2023-24,Davinson Sánchez,departures,Tottenham Hotspur,Süper Lig,"£8,360,000",Galatasaray,Colombia,27,DC
+2023-24,Djed Spence,departures,Tottenham Hotspur,Championship,Loan with fee,Leeds United,England,23,DR
+2023-24,Lucas Moura,departures,Tottenham Hotspur,Série A,Free transfer,São Paulo Futebol Clube,Brazil,30,RW
+2023-24,Tanguy Ndombélé,departures,Tottenham Hotspur,Süper Lig,loan transfer,Galatasaray,France,26,MC
+2023-24,Sergio Reguilón,departures,Tottenham Hotspur,Premier League,loan transfer,Manchester United,Spain,26,DL
+2023-24,Joe Rodon,departures,Tottenham Hotspur,Championship,loan transfer,Leeds United,Wales,25,DC
+2023-24,Japhet Tanganga,departures,Tottenham Hotspur,Bundesliga,loan transfer,FC Augsburg,England,24,DC
+2023-24,Dejan Kulusevski,departures,Tottenham Hotspur,Serie A,Loan,Juventus FC,Sweden,23,RW
+2023-24,Pedro Porro,departures,Tottenham Hotspur,Liga Portugal,Loan,Sporting CP,Spain,23,DR
+2023-24,Arnaut Danjuma,departures,Tottenham Hotspur,LaLiga,Loan,Villarreal CF,Netherlands,26,LW
+2023-24,Clément Lenglet,departures,Tottenham Hotspur,LaLiga,Loan,FC Barcelona,France,28,DC
+2023-24,Kai Havertz,departures,Chelsea,Premier League,"£66,000,000",Arsenal FC,Germany,24,AM
+2023-24,Mason Mount,departures,Chelsea,Premier League,"£56,496,000",Manchester United,England,24,AM
+2023-24,Mateo Kovacic,departures,Chelsea,Premier League,"£25,608,000",Manchester City,Croatia,29,MC
+2023-24,Kalidou Koulibaly,departures,Chelsea,Saudi Pro League,"£20,240,000",Al-Hilal SFC,Senegal,32,DC
+2023-24,Christian Pulisic,departures,Chelsea,Serie A,"£17,600,000",AC Milan,United States,24,RW
+2023-24,Edouard Mendy,departures,Chelsea,Saudi Pro League,"£16,280,000",Al-Ahli SFC,Senegal,31,GK
+2023-24,Ruben Loftus-Cheek,departures,Chelsea,Serie A,"£14,080,000",AC Milan,England,27,MC
+2023-24,Ethan Ampadu,departures,Chelsea,Championship,"£7,128,000",Leeds United,Wales,22,DM
+2023-24,Romelu Lukaku,departures,Chelsea,Serie A,Loan with fee,AS Roma,Belgium,30,CF
+2023-24,Callum Hudson-Odoi,departures,Chelsea,Premier League,"£3,080,000",Nottingham Forest,England,22,LW
+2023-24,Diego Moreira,departures,Chelsea,Ligue 1,Loan with fee,Olympique Lyon,Portugal,19,LW
+2023-24,Kepa Arrizabalaga,departures,Chelsea,LaLiga,Loan with fee,Real Madrid,Spain,28,GK
+2023-24,N'Golo Kanté,departures,Chelsea,Saudi Pro League,Free transfer,Al-Ittihad Club,France,32,DM
+2023-24,César Azpilicueta,departures,Chelsea,LaLiga,Free transfer,Atlético de Madrid,Spain,33,DR
+2023-24,Pierre-Emerick Aubameyang,departures,Chelsea,Ligue 1,Free transfer,Olympique Marseille,Gabon,34,CF
+2023-24,Tiemoué Bakayoko,departures,Chelsea,Ligue 1,Free transfer,FC Lorient,France,29,DM
+2023-24,Abdul Rahman Baba,departures,Chelsea,Super League 1,Free transfer,PAOK Thessaloniki,Ghana,29,DL
+2023-24,Hakim Ziyech,departures,Chelsea,Süper Lig,loan transfer,Galatasaray,Morocco,30,AM
+2023-24,Andrey Santos,departures,Chelsea,Premier League,loan transfer,Nottingham Forest,Brazil,19,DM
+2023-24,Ângelo,departures,Chelsea,Ligue 1,loan transfer,RC Strasbourg Alsace,Brazil,18,RW
+2023-24,David Datro Fofana,departures,Chelsea,Bundesliga,loan transfer,1.FC Union Berlin,Cote d'Ivoire,20,CF
+2023-24,Lewis Hall,departures,Chelsea,Premier League,loan transfer,Newcastle United,England,18,DL
+2023-24,Gabriel Slonina,departures,Chelsea,Jupiler Pro League,loan transfer,KAS Eupen,United States,19,GK
+2023-24,João Félix,departures,Chelsea,LaLiga,Loan,Atlético de Madrid,Portugal,23,ST
+2023-24,Denis Zakaria,departures,Chelsea,Serie A,Loan,Juventus FC,Switzerland,26,DM
+2023-24,Allan Saint-Maximin,departures,Newcastle United,Saudi Pro League,"£23,936,000",Al-Ahli SFC,France,26,LW
+2023-24,Chris Wood,departures,Newcastle United,Premier League,"£14,960,000",Nottingham Forest,New Zealand,31,CF
+2023-24,Karl Darlow,departures,Newcastle United,Championship,"£352,000",Leeds United,England,32,GK
+2023-24,Ryan Fraser,departures,Newcastle United,Championship,loan transfer,Southampton FC,Scotland,29,LW
+2023-24,Jamal Lewis,departures,Newcastle United,Championship,loan transfer,Watford FC,Northern Ireland,25,DL
+2023-24,Isaac Hayden,departures,Newcastle United,Jupiler Pro League,loan transfer,Standard Liège,England,28,DM
+2023-24,Yankuba Minteh,departures,Newcastle United,Eredivisie,loan transfer,Feyenoord Rotterdam,The Gambia,18,RW
+2023-24,Jeff Hendrick,departures,Newcastle United,Championship,loan transfer,Sheffield Wednesday,Ireland,31,MC
+2023-24,Harrison Ashby,departures,Newcastle United,Championship,loan transfer,Swansea City,Scotland,21,DR
+2023-24,Garang Kuol,departures,Newcastle United,Eredivisie,loan transfer,FC Volendam,Australia,18,RW
+2023-24,Kell Watts,departures,Newcastle United,League One,loan transfer,Wigan Athletic,England,23,DC
+2023-24,Matty Longstaff,departures,Newcastle United,No team,Free transfer,No team,England,23,MC
+2023-24,Ciaran Clark,departures,Newcastle United,No team,Free transfer,No team,Ireland,33,DC
+2023-24,Lewis Hall,departures,Newcastle United,Premier League,Loan,Chelsea FC,England,19,DL
+2023-24,Dean Henderson,departures,Manchester United,Premier League,"£15,400,000",Crystal Palace,England,26,GK
+2023-24,Anthony Elanga,departures,Manchester United,Premier League,"£15,400,000",Nottingham Forest,Sweden,21,LW
+2023-24,Fred,departures,Manchester United,Süper Lig,"£8,571,200",Fenerbahce,Brazil,30,MC
+2023-24,Matej Kovar,departures,Manchester United,Bundesliga,"£4,400,000",Bayer 04 Leverkusen,Czech Republic,23,GK
+2023-24,Alex Telles,departures,Manchester United,Saudi Pro League,"£4,048,000",Al-Nassr FC,Brazil,30,DL
+2023-24,Zidane Iqbal,departures,Manchester United,Eredivisie,"£880,000",FC Utrecht,Iraq,20,MC
+2023-24,Eric Bailly,departures,Manchester United,Süper Lig,Free transfer,Besiktas JK,Cote d'Ivoire,29,DC
+2023-24,Teden Mengi,departures,Manchester United,Premier League,Unknown,Luton Town,England,21,DC
+2023-24,Brandon Williams,departures,Manchester United,Championship,loan transfer,Ipswich Town,England,22,DL
+2023-24,Álvaro Fernandez,departures,Manchester United,LaLiga,loan transfer,Granada CF,Spain,20,DL
+2023-24,Mason Greenwood,departures,Manchester United,LaLiga,loan transfer,Getafe CF,England,21,RW
+2023-24,David de Gea,departures,Manchester United,No team,Free transfer,No team,Spain,32,GK
+2023-24,Axel Tuanzebe,departures,Manchester United,No team,Free transfer,No team,England,25,DC
+2023-24,Phil Jones,departures,Manchester United,No team,Free transfer,No team,England,31,DC
+2023-24,Marcel Sabitzer,departures,Manchester United,Bundesliga,Loan,Bayern Munich,Austria,29,MC
+2023-24,Wout Weghorst,departures,Manchester United,Premier League,Loan,Burnley FC,Netherlands,30,CF
+2023-24,Jack Butland,departures,Manchester United,Premier League,Loan,Crystal Palace,England,30,GK
+2023-24,Declan Rice,departures,West Ham United,Premier League,"£102,608,000",Arsenal FC,England,24,DM
+2023-24,Gianluca Scamacca,departures,West Ham United,Serie A,"£22,000,000",Atalanta BC,Italy,24,CF
+2023-24,Nikola Vlasic,departures,West Ham United,Serie A,"£11,264,000",Torino FC,Croatia,25,AM
+2023-24,Arthur Masuaku,departures,West Ham United,Süper Lig,"£1,760,000",Besiktas JK,DR Congo,29,DL
+2023-24,Manuel Lanzini,departures,West Ham United,Liga Profesional,Free transfer,CA River Plate,Argentina,30,AM
+2023-24,Flynn Downes,departures,West Ham United,Championship,loan transfer,Southampton FC,England,24,MC
+2023-24,Andy Irving,departures,West Ham United,Bundesliga,loan transfer,SK Austria Klagenfurt,Scotland,23,MC
+2023-24,Wilfried Zaha,departures,Crystal Palace,Süper Lig,Free transfer,Galatasaray,Cote d'Ivoire,30,LW
+2023-24,Luka Milivojevic,departures,Crystal Palace,UAE Pro League,Free transfer,FC Shabab Al-Ahli Dubai,Serbia,32,DM
+2023-24,Jack Butland,departures,Crystal Palace,Premiership,Free transfer,Rangers FC,England,30,GK
+2023-24,Vicente Guaita,departures,Crystal Palace,LaLiga,Free transfer,Celta de Vigo,Spain,36,GK
+2023-24,Luke Plange,departures,Crystal Palace,League One,loan transfer,Carlisle United,England,20,CF
+2023-24,James McArthur,departures,Crystal Palace,No team,Free transfer,No team,Scotland,35,MC
+2023-24,Moisés Caicedo,departures,Brighton,Premier League,"£102,080,000",Chelsea FC,Ecuador,21,DM
+2023-24,Alexis Mac Allister,departures,Brighton,Premier League,"£36,960,000",Liverpool FC,Argentina,24,MC
+2023-24,Robert Sánchez,departures,Brighton,Premier League,"£20,240,000",Chelsea FC,Spain,25,GK
+2023-24,Andi Zeqiri,departures,Brighton,Jupiler Pro League,"£2,420,000",KRC Genk,Switzerland,24,CF
+2023-24,Michal Karbownik,departures,Brighton,2. Bundesliga,"£2,200,000",Hertha BSC,Poland,22,DL
+2023-24,Reda Khadra,departures,Brighton,Ligue 1,"£1,672,000",Stade Reims,Germany,22,AM
+2023-24,Aaron Connolly,departures,Brighton,Championship,"£1,188,000",Hull City,Ireland,23,CF
+2023-24,Deniz Undav,departures,Brighton,Bundesliga,Loan with fee,VfB Stuttgart,Germany,27,CF
+2023-24,Haydon Roberts,departures,Brighton,Championship,Free transfer,Bristol City,England,21,DL
+2023-24,Taylor Richards,departures,Brighton,Championship,Unknown,Queens Park Rangers,England,22,MC
+2023-24,Kacper Kozlowski,departures,Brighton,Eredivisie,loan transfer,Vitesse Arnhem,Poland,19,MC
+2023-24,Abdallah Sima,departures,Brighton,Premiership,loan transfer,Rangers FC,Senegal,22,RW
+2023-24,Yasin Ayari,departures,Brighton,Championship,loan transfer,Coventry City,Sweden,19,MC
+2023-24,Jeremy Sarmiento,departures,Brighton,Championship,loan transfer,West Bromwich Albion,Ecuador,21,AM
+2023-24,Steven Alzate,departures,Brighton,Jupiler Pro League,loan transfer,Standard Liège,Colombia,24,MC
+2023-24,Kjell Scherpen,departures,Brighton,Bundesliga,loan transfer,SK Sturm Graz,Netherlands,23,GK
+2023-24,Carl Rushworth,departures,Brighton,Championship,loan transfer,Swansea City,England,22,GK
+2023-24,Jensen Weir,departures,Brighton,League One,loan transfer,Blackpool FC,England,21,MC
+2023-24,Ed Turns,departures,Brighton,League One,loan transfer,Leyton Orient,Wales,20,DC
+2023-24,Marc Leonard,departures,Brighton,League One,loan transfer,Northampton Town,Scotland,21,MC
+2023-24,Andy Moran,departures,Brighton,Championship,loan transfer,Blackburn Rovers,Ireland,19,AM
+2023-24,Matheus Nunes,departures,Wolverhampton,Premier League,"£54,560,000",Manchester City,Portugal,25,MC
+2023-24,Rúben Neves,departures,Wolverhampton,Saudi Pro League,"£48,400,000",Al-Hilal SFC,Portugal,26,DM
+2023-24,Nathan Collins,departures,Wolverhampton,Premier League,"£23,628,000",Brentford FC,Ireland,22,DC
+2023-24,Conor Coady,departures,Wolverhampton,Championship,"£7,656,000",Leicester City,England,30,DC
+2023-24,Raúl Jiménez,departures,Wolverhampton,Premier League,"£5,632,000",Fulham FC,Mexico,32,CF
+2023-24,Ryan Giles,departures,Wolverhampton,Premier League,"£5,148,000",Luton Town,England,23,DL
+2023-24,Daniel Podence,departures,Wolverhampton,Super League 1,Loan with fee,Olympiacos Piraeus,Portugal,27,LW
+2023-24,Hayao Kawabe,departures,Wolverhampton,Jupiler Pro League,"£1,320,000",Standard Liège,Japan,27,MC
+2023-24,Matija Sarkic,departures,Wolverhampton,Championship,"£1,232,000",Millwall FC,Montenegro,26,GK
+2023-24,Adama Traoré,departures,Wolverhampton,Premier League,Free transfer,Fulham FC,Spain,27,RW
+2023-24,João Moutinho,departures,Wolverhampton,Liga Portugal,Free transfer,SC Braga,Portugal,36,MC
+2023-24,Gonçalo Guedes,departures,Wolverhampton,Liga Portugal,loan transfer,SL Benfica,Portugal,26,LW
+2023-24,Ki-Jana Hoever,departures,Wolverhampton,Championship,loan transfer,Stoke City,Netherlands,21,DR
+2023-24,Luke Cundle,departures,Wolverhampton,Championship,loan transfer,Plymouth Argyle,England,21,MC
+2023-24,Bendegúz Bolla,departures,Wolverhampton,Super League,loan transfer,Servette FC,Hungary,23,DR
+2023-24,Chiquinho,departures,Wolverhampton,Championship,loan transfer,Stoke City,Portugal,23,LW
+2023-24,Chiquinho,departures,Wolverhampton,Liga Portugal,loan transfer,FC Famalicão,Portugal,23,LW
+2023-24,Chem Campbell,departures,Wolverhampton,League One,loan transfer,Charlton Athletic,Wales,20,AM
+2023-24,Louie Moulden,departures,Wolverhampton,National League,loan transfer,Rochdale AFC,England,21,GK
+2023-24,Diego Costa,departures,Wolverhampton,No team,Free transfer,No team,Spain,34,CF
+2023-24,Matheus Cunha,departures,Wolverhampton,LaLiga,Loan,Atlético de Madrid,Brazil,24,CF
+2023-24,Tommy Doyle,departures,Wolverhampton,Premier League,Loan,Manchester City,England,22,MC
+2023-24,Boubacar Traoré,departures,Wolverhampton,Ligue 1,Loan,FC Metz,Mali,21,DM
+2023-24,Aleksandar Mitrovic,departures,Fulham,Saudi Pro League,"£46,288,000",Al-Hilal SFC,Serbia,28,CF
+2023-24,Paulo Gazzaniga,departures,Fulham,LaLiga,Free transfer,Girona FC,Argentina,31,GK
+2023-24,Ivan Cavaleiro,departures,Fulham,Ligue 1,Free transfer,LOSC Lille,Angola,29,LW
+2023-24,Joe Bryan,departures,Fulham,Championship,Free transfer,Millwall FC,England,29,DL
+2023-24,Neeskens Kebano,departures,Fulham,UAE Pro League,Free transfer,Al-Jazira,DR Congo,31,LW
+2023-24,Shane Duffy,departures,Fulham,Championship,Free transfer,Norwich City,Ireland,31,DC
+2023-24,Anthony Knockaert,departures,Fulham,Ligue 2,Free transfer,Valenciennes FC,France,31,RW
+2023-24,Steven Sessegnon,departures,Fulham,League One,Free transfer,Wigan Athletic,England,23,DR
+2023-24,Kevin Mbabu,departures,Fulham,Bundesliga,loan transfer,FC Augsburg,Switzerland,28,DR
+2023-24,Jay Stansfield,departures,Fulham,Championship,loan transfer,Birmingham City,England,20,CF
+2023-24,Terence Kongolo,departures,Fulham,Bundesliga,loan transfer,Rapid Vienna,Netherlands,29,DC
+2023-24,Manor Solomon,departures,Fulham,Premier Liga,Loan,Shakhtar Donetsk,Israel,23,LW
+2023-24,Cédric Soares,departures,Fulham,Premier League,Loan,Arsenal FC,Portugal,31,DR
+2023-24,Layvin Kurzawa,departures,Fulham,Ligue 1,Loan,Paris Saint-Germain,France,30,DL
+2023-24,Ben Pearson,departures,Bournemouth,Championship,"£1,320,000",Stoke City,England,28,DM
+2023-24,Jefferson Lerma,departures,Bournemouth,Premier League,Free transfer,Crystal Palace,Colombia,28,DM
+2023-24,Jordan Zemura,departures,Bournemouth,Serie A,Free transfer,Udinese Calcio,Zimbabwe,23,DL
+2023-24,Jack Stacey,departures,Bournemouth,Championship,Free transfer,Norwich City,England,27,DR
+2023-24,Siriki Dembélé,departures,Bournemouth,Championship,Unknown,Birmingham City,Scotland,26,LW
+2023-24,Christian Saydee,departures,Bournemouth,League One,Unknown,Portsmouth FC,England,21,CF
+2023-24,Romain Faivre,departures,Bournemouth,Ligue 1,loan transfer,FC Lorient,France,25,MR
+2023-24,Jaidon Anthony,departures,Bournemouth,Championship,loan transfer,Leeds United,England,23,LW
+2023-24,Mark Travers,departures,Bournemouth,Championship,loan transfer,Stoke City,Ireland,24,GK
+2023-24,Jamal Lowe,departures,Bournemouth,Championship,loan transfer,Swansea City,Jamaica,29,RW
+2023-24,James Hill,departures,Bournemouth,Championship,loan transfer,Blackburn Rovers,England,21,DC
+2023-24,Will Dennis,departures,Bournemouth,Premiership,loan transfer,Kilmarnock FC,England,22,GK
+2023-24,Junior Stanislas,departures,Bournemouth,No team,Free transfer,No team,England,33,LW
+2023-24,Luis Sinisterra,departures,Bournemouth,Championship,Loan,Leeds United,Colombia,24,LW
+2023-24,Hamed Junior Traorè,departures,Bournemouth,Serie A,Loan,US Sassuolo,Cote d'Ivoire,23,AM
+2023-24,Matías Viña,departures,Bournemouth,Serie A,Loan,AS Roma,Uruguay,25,DL
+2023-24,Brennan Johnson,departures,Nottingham Forest,Premier League,"£48,400,000",Tottenham Hotspur,Wales,22,RW
+2023-24,Sam Surridge,departures,Nottingham Forest,MLS,"£5,104,000",Nashville SC,England,24,CF
+2023-24,Braian Ojeda,departures,Nottingham Forest,MLS,"£3,168,000",Real Salt Lake City,Paraguay,23,MC
+2023-24,Mohamed Dräger,departures,Nottingham Forest,Super League,"£369,600",FC Basel 1893,Tunisia,27,DR
+2023-24,Jack Colback,departures,Nottingham Forest,Championship,Free transfer,Queens Park Rangers,England,33,DM
+2023-24,Cafú,departures,Nottingham Forest,Championship,Free transfer,Rotherham United,Portugal,30,MC
+2023-24,Jordan Smith,departures,Nottingham Forest,League Two,Free transfer,Stockport County,England,28,GK
+2023-24,Steve Cook,departures,Nottingham Forest,Championship,Unknown,Queens Park Rangers,England,32,DC
+2023-24,Gustavo Scarpa,departures,Nottingham Forest,Super League 1,loan transfer,Olympiacos Piraeus,Brazil,29,AM
+2023-24,Remo Freuler,departures,Nottingham Forest,Serie A,loan transfer,Bologna FC 1909,Switzerland,31,MC
+2023-24,Emmanuel Dennis,departures,Nottingham Forest,Süper Lig,loan transfer,Basaksehir FK,Nigeria,25,CF
+2023-24,Lewis O'Brien,departures,Nottingham Forest,Championship,loan transfer,Middlesbrough FC,England,24,MC
+2023-24,Jonjo Shelvey,departures,Nottingham Forest,Süper Lig,loan transfer,Caykur Rizespor,England,31,MC
+2023-24,Omar Richards,departures,Nottingham Forest,Super League 1,loan transfer,Olympiacos Piraeus,England,25,DL
+2023-24,Ui-jo Hwang,departures,Nottingham Forest,Championship,loan transfer,Norwich City,"Korea, South",31,CF
+2023-24,Jonathan Panzo,departures,Nottingham Forest,Championship,loan transfer,Cardiff City,England,22,DC
+2023-24,Richie Laryea,departures,Nottingham Forest,MLS,loan transfer,Vancouver Whitecaps FC,Canada,28,DR
+2023-24,Loïc Mbe Soh,departures,Nottingham Forest,Eredivisie,loan transfer,Almere City FC,France,22,DC
+2023-24,Josh Bowler,departures,Nottingham Forest,Championship,loan transfer,Cardiff City,England,24,RW
+2023-24,Alex Mighten,departures,Nottingham Forest,Jupiler Pro League,loan transfer,KV Kortrijk,England,21,LW
+2023-24,Jesse Lingard,departures,Nottingham Forest,No team,Free transfer,No team,England,30,AM
+2023-24,André Ayew,departures,Nottingham Forest,No team,Free transfer,No team,Ghana,33,LW
+2023-24,Lyle Taylor,departures,Nottingham Forest,No team,Free transfer,No team,Montserrat,33,CF
+2023-24,Adnan Kanuric,departures,Nottingham Forest,No team,Free transfer,No team,Bosnia-Herzegovina,22,GK
+2023-24,Renan Lodi,departures,Nottingham Forest,LaLiga,Loan,Atlético de Madrid,Brazil,25,DL
+2023-24,Andrey Santos,departures,Nottingham Forest,Premier League,Loan,Chelsea FC,Brazil,20,DM
+2023-24,Chris Wood,departures,Nottingham Forest,Premier League,Loan,Newcastle United,New Zealand,31,CF
+2023-24,Keylor Navas,departures,Nottingham Forest,Ligue 1,Loan,Paris Saint-Germain,Costa Rica,36,GK
+2023-24,Moise Kean,departures,Everton,Serie A,"£26,400,000",Juventus FC,Italy,23,CF
+2023-24,Alex Iwobi,departures,Everton,Premier League,"£22,616,000",Fulham FC,Nigeria,27,AM
+2023-24,Demarai Gray,departures,Everton,Saudi Pro League,"£8,184,000",Al-Ettifaq FC,Jamaica,27,LW
+2023-24,Thomas Cannon,departures,Everton,Championship,"£7,744,000",Leicester City,Ireland,20,CF
+2023-24,Ellis Simms,departures,Everton,Championship,"£6,160,000",Coventry City,England,22,CF
+2023-24,Niels Nkounkou,departures,Everton,Ligue 2,"£1,760,000",AS Saint-Étienne,France,22,DL
+2023-24,Yerry Mina,departures,Everton,Serie A,Free transfer,ACF Fiorentina,Colombia,28,DC
+2023-24,Tom Davies,departures,Everton,Premier League,Free transfer,Sheffield United,England,25,MC
+2023-24,Asmir Begovic,departures,Everton,Championship,Free transfer,Queens Park Rangers,Bosnia-Herzegovina,36,GK
+2023-24,Neal Maupay,departures,Everton,Premier League,loan transfer,Brentford FC,France,27,CF
+2023-24,Mason Holgate,departures,Everton,Championship,loan transfer,Southampton FC,England,26,DC
+2023-24,Jean-Philippe Gbamin,departures,Everton,No team,Free transfer,No team,Cote d'Ivoire,27,DM
+2023-24,Andros Townsend,departures,Everton,No team,Free transfer,No team,England,31,RW
+2023-24,Jack Harrison,departures,Everton,Championship,Loan,Leeds United,England,27,LW
+2023-24,Conor Coady,departures,Everton,Premier League,Loan,Wolverhampton Wanderers,England,30,DC
+2023-24,Rúben Vinagre,departures,Everton,Liga Portugal,Loan,Sporting CP,Portugal,24,DL
+2023-24,Mads Bidstrup,departures,Brentford,Bundesliga,"£5,280,000",Red Bull Salzburg,Denmark,22,MC
+2023-24,David Raya,departures,Brentford,Premier League,Loan with fee,Arsenal FC,Spain,27,GK
+2023-24,Halil Dervisoglu,departures,Brentford,Süper Lig,"£440,000",Galatasaray,Turkey,23,CF
+2023-24,Sergi Canós,departures,Brentford,LaLiga,"£220,000",Valencia CF,Spain,26,RW
+2023-24,Pontus Jansson,departures,Brentford,Allsvenskan,Free transfer,Malmö FF,Sweden,32,DC
+2023-24,Joel Valencia,departures,Brentford,Fortuna 1 Liga,Free transfer,Zaglebie Sosnowiec,Ecuador,28,AM
+2023-24,Mads Bech Sörensen,departures,Brentford,Superligaen,Unknown,FC Midtjylland,Denmark,24,DC
+2023-24,Matthew Cox,departures,Brentford,League One,loan transfer,Bristol Rovers,England,20,GK
+2023-24,Paris Maghoma,departures,Brentford,League One,loan transfer,Bolton Wanderers,England,22,MC
+2023-24,Fin Stevens,departures,Brentford,League One,loan transfer,Oxford United,Wales,20,DR
+2023-24,Ryan Trevitt,departures,Brentford,League One,loan transfer,Exeter City,England,20,MC
+2023-24,Tariqe Fosu,departures,Brentford,No team,Free transfer,No team,Ghana,27,LW
+2023-24,Kevin Schade,departures,Brentford,Bundesliga,Loan,SC Freiburg,Germany,21,RW
+2023-24,Sonny Bradley,departures,Luton Town,League One,Free transfer,Derby County,England,31,DC
+2023-24,Harry Isted,departures,Luton Town,League One,Free transfer,Charlton Athletic,England,26,GK
+2023-24,Carlos Mendes,departures,Luton Town,League One,Unknown,Bolton Wanderers,Spain,24,RW
+2023-24,Allan Campbell,departures,Luton Town,Championship,loan transfer,Millwall FC,Scotland,25,MC
+2023-24,Fred Onyedinma,departures,Luton Town,Championship,loan transfer,Rotherham United,Nigeria,26,AM
+2023-24,Jack Walton,departures,Luton Town,Championship,loan transfer,Dundee United FC,England,25,GK
+2023-24,Admiral Muskwe,departures,Luton Town,League One,loan transfer,Exeter City,Zimbabwe,25,CF
+2023-24,Elliot Thorpe,departures,Luton Town,League One,loan transfer,Shrewsbury Town,Wales,22,MC
+2023-24,Louie Watson,departures,Luton Town,League One,loan transfer,Charlton Athletic,Ireland,22,MC
+2023-24,Joe Taylor,departures,Luton Town,League Two,loan transfer,Colchester United,Wales,20,CF
+2023-24,John McAtee,departures,Luton Town,League One,loan transfer,Barnsley FC,England,24,ST
+2023-24,Dion Pereira,departures,Luton Town,League Two,loan transfer,Sutton United,England,24,LW
+2023-24,Aribim Pepple,departures,Luton Town,National League,loan transfer,Bromley FC,Canada,20,CF
+2023-24,Luke Freeman,departures,Luton Town,No team,Free transfer,No team,England,31,AM
+2023-24,Matt Macey,departures,Luton Town,No team,Free transfer,No team,England,28,GK
+2023-24,Henri Lansbury,departures,Luton Town,No team,Free transfer,No team,England,32,MC
+2023-24,Glen Rea,departures,Luton Town,No team,Free transfer,No team,Ireland,28,DM
+2023-24,Albert Sambi Lokonga,departures,Luton Town,Premier League,Loan,Arsenal FC,Belgium,24,MC
+2023-24,Issa Kaboré,departures,Luton Town,Premier League,Loan,Manchester City,Burkina Faso,23,DR
+2023-24,Ethan Horvath,departures,Luton Town,Premier League,Loan,Nottingham Forest,United States,28,GK
+2023-24,Bobby Thomas,departures,Burnley,Championship,"£2,024,000",Coventry City,England,22,DC
+2023-24,Wout Weghorst,departures,Burnley,Bundesliga,Loan with fee,TSG 1899 Hoffenheim,Netherlands,31,CF
+2023-24,Ashley Barnes,departures,Burnley,Championship,Free transfer,Norwich City,England,33,CF
+2023-24,Will Norris,departures,Burnley,League One,Free transfer,Portsmouth FC,England,29,GK
+2023-24,Samuel Bastien,departures,Burnley,Süper Lig,Unknown,Kasimpasa,DR Congo,26,MC
+2023-24,Scott Twine,departures,Burnley,Championship,loan transfer,Hull City,England,24,AM
+2023-24,Luke McNally,departures,Burnley,Championship,loan transfer,Stoke City,Ireland,23,DC
+2023-24,Bailey Peacock-Farrell,departures,Burnley,Superligaen,loan transfer,Aarhus GF,Northern Ireland,26,GK
+2023-24,Dara Costelloe,departures,Burnley,Premiership,loan transfer,St. Johnstone FC,Ireland,20,LW
+2023-24,Matthew Lowton,departures,Burnley,No team,Free transfer,No team,England,34,DR
+2023-24,Jordan Beyer,departures,Burnley,Bundesliga,Loan,Borussia Mönchengladbach,Germany,23,DC
+2023-24,Iliman Ndiaye,departures,Sheffield United,Ligue 1,"£14,960,000",Olympique Marseille,Senegal,23,ST
+2023-24,Sander Berge,departures,Sheffield United,Premier League,"£12,232,000",Burnley FC,Norway,25,DM
+2023-24,Enda Stevens,departures,Sheffield United,Championship,Free transfer,Stoke City,Ireland,32,DL
+2023-24,Billy Sharp,departures,Sheffield United,MLS,Free transfer,Los Angeles Galaxy,England,37,CF
+2023-24,Jake Eastwood,departures,Sheffield United,League Two,Unknown,Grimsby Town,England,26,GK
+2023-24,Jack O'Connell,departures,Sheffield United,No team,Free transfer,No team,England,29,DC
+2023-24,Kyron Gordon,departures,Sheffield United,No team,Free transfer,No team,England,21,DC
+2023-24,Luke Thomas,departures,Sheffield United,Championship,Loan,Leicester City,England,22,DL
+2023-24,James McAtee,departures,Sheffield United,Premier League,Loan,Manchester City,England,21,MC
